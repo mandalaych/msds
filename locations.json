@@ -1,0 +1,6346 @@
+[
+  {
+    "name": "Riehen",
+    "lat": 47.5816927,
+    "lng": 7.6479737,
+    "episodes": [
+      {
+        "title": "Basel Stadt – Tag 5 – Riehen",
+        "date": "2021-08-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/30cbf0f0-27d2-4d80-b874-0f49a00ed33c"
+      },
+      {
+        "title": "Basel Stadt – Tag 5 – Riehen",
+        "date": "2020-05-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7d046590-b319-46b2-8d42-1303742ddc1d"
+      },
+      {
+        "title": "Kanton Basel-Stadt – Tag 4 – Riehen",
+        "date": "2019-06-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4e0dfc10-9917-43af-abc8-ead801cfb7b7"
+      }
+    ]
+  },
+  {
+    "name": "Kleinhünigen-Quartier",
+    "lat": 47.5819756,
+    "lng": 7.5922795,
+    "episodes": [
+      {
+        "title": "Basel Stadt – Tag 4 – Kleinhünigen-Quartier",
+        "date": "2021-08-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6efbd749-bb49-411f-b7ba-97d4fe0b1192"
+      },
+      {
+        "title": "Basel Stadt – Tag 4 – Kleinhünigen-Quartier",
+        "date": "2020-05-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5b0c35b0-0fab-42a5-b58b-7ac79bc0df9d"
+      }
+    ]
+  },
+  {
+    "name": "Matthäus-Quartier",
+    "lat": 47.5674388,
+    "lng": 7.5915404,
+    "episodes": [
+      {
+        "title": "Basel Stadt – Tag 3 – Matthäus-Quartier",
+        "date": "2021-08-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e1832cfa-2309-47fb-bc8e-c9e6c2d0fcaa"
+      },
+      {
+        "title": "Basel Stadt – Tag 3 – Matthäus-Quartier",
+        "date": "2020-05-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/83f559ce-e2fc-40ac-88cd-3384172305f3"
+      }
+    ]
+  },
+  {
+    "name": "Wettstein-Quartier",
+    "lat": 47.560508,
+    "lng": 7.6047949,
+    "episodes": [
+      {
+        "title": "Basel Stadt – Tag 2 – Wettstein-Quartier",
+        "date": "2021-08-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a4ee17dc-c9a8-4469-97f4-28e4e05a687a"
+      },
+      {
+        "title": "Basel Stadt – Tag 2 – Wettstein-Quartier",
+        "date": "2020-05-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b4de2ffb-995e-463e-b5c3-5b6051dc943d"
+      }
+    ]
+  },
+  {
+    "name": "Gundeldingen-Quartier",
+    "lat": 47.5432192,
+    "lng": 7.5914854,
+    "episodes": [
+      {
+        "title": "Basel Stadt – Tag 1 – Gundeldingen-Quartier",
+        "date": "2021-08-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/828d0ca1-9be2-4dc9-b086-e37ead1100ce"
+      },
+      {
+        "title": "Basel Stadt – Tag 1 – Gundeldingen-Quartier",
+        "date": "2020-05-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/306fecae-8284-4b07-b759-b8633952125c"
+      }
+    ]
+  },
+  {
+    "name": "Walzenhausen",
+    "lat": 47.4506581,
+    "lng": 9.6017721,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 5 – Walzenhausen",
+        "date": "2021-08-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/14a786a1-9852-4e33-82ba-496be0fa1dfa"
+      },
+      {
+        "title": "Appenzell – Tag 5 – Walzenhausen",
+        "date": "2020-10-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e9a3cf24-9ffc-498d-8a4e-8933d1fcb672"
+      }
+    ]
+  },
+  {
+    "name": "Trogen",
+    "lat": 47.4079877,
+    "lng": 9.4650591,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 4 – Trogen",
+        "date": "2021-08-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/39ca7f86-c9ad-46c1-87c4-e556884873eb"
+      },
+      {
+        "title": "Appenzell – Tag 4 – Trogen",
+        "date": "2020-10-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ffb996ba-096d-4935-bd41-a0c29d59e923"
+      }
+    ]
+  },
+  {
+    "name": "Speicher",
+    "lat": 47.4126429,
+    "lng": 9.4424912,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 3 – Speicher",
+        "date": "2021-08-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b43116ac-25be-44f7-b93d-e0fa6e08c648"
+      },
+      {
+        "title": "Appenzell – Tag 3 – Speicher",
+        "date": "2020-09-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b43cee42-250e-44f7-91fe-ba79f327d26c"
+      }
+    ]
+  },
+  {
+    "name": "Gonten",
+    "lat": 47.326177,
+    "lng": 9.3428845,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 2 – Gonten",
+        "date": "2021-08-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/228829c1-1603-407f-a973-200a65c0e13c"
+      },
+      {
+        "title": "Appenzell – Tag 2 – Gonten",
+        "date": "2020-09-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a7812348-114a-4031-9c82-af9a2c34ea12"
+      }
+    ]
+  },
+  {
+    "name": "Schönengrund",
+    "lat": 47.3280092,
+    "lng": 9.2267766,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 1 – Schönengrund",
+        "date": "2021-08-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5d276e78-8c6d-4666-a5ea-b0f03cd14213"
+      },
+      {
+        "title": "Appenzell – Tag 1 – Schönengrund",
+        "date": "2020-09-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0d144f4f-c799-4dbc-8696-e3152bc6f170"
+      }
+    ]
+  },
+  {
+    "name": "Emmetten",
+    "lat": 46.9565663,
+    "lng": 8.5128414,
+    "episodes": [
+      {
+        "title": "Vierwaldstättersee–Spezial – Tag 5 – Emmetten",
+        "date": "2021-08-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/56b37af5-b26f-40f5-8d88-e007f9045667"
+      },
+      {
+        "title": "Kanton Nidwalden – Tag 3 – Emmetten",
+        "date": "2019-11-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9a05de98-7f58-480a-b5ec-42fb81f79afe"
+      }
+    ]
+  },
+  {
+    "name": "Beckenried",
+    "lat": 46.9664078,
+    "lng": 8.4744947,
+    "episodes": [
+      {
+        "title": "Vierwaldstättersee–Spezial – Tag 4 – Beckenried",
+        "date": "2021-08-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c18922cb-290d-4f85-bb14-211d9028308a"
+      },
+      {
+        "title": "Kanton Nidwalden – Tag 5 – Beckenried",
+        "date": "2019-11-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/eb0731c7-d688-4d62-a0d7-a5e3a812ddfa"
+      }
+    ]
+  },
+  {
+    "name": "Brunnen",
+    "lat": 46.9940439,
+    "lng": 8.6054085,
+    "episodes": [
+      {
+        "title": "Vierwaldstättersee–Spezial – Tag 3 – Brunnen",
+        "date": "2021-08-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/96aafd03-21eb-4a01-a897-5d841aaf6fc7"
+      },
+      {
+        "title": "Kanton Schwyz – Tag 1 – Brunnen",
+        "date": "2019-01-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cfd5f642-7213-4469-8df8-fb16dc103258"
+      }
+    ]
+  },
+  {
+    "name": "Vitznau",
+    "lat": 47.0091184,
+    "lng": 8.4846569,
+    "episodes": [
+      {
+        "title": "Vierwaldstättersee–Spezial – Tag 2 – Vitznau",
+        "date": "2021-08-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3c4b2938-23b5-4fcd-8c5c-f4ce143165dd"
+      }
+    ]
+  },
+  {
+    "name": "Seedorf",
+    "lat": 47.0349831,
+    "lng": 7.3116209,
+    "episodes": [
+      {
+        "title": "Vierwaldstättersee–Spezial – Tag 1 – Seedorf",
+        "date": "2021-08-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/99f6f27d-4068-4c32-b148-ea1e13676973"
+      }
+    ]
+  },
+  {
+    "name": "Ganterschwil",
+    "lat": 47.3809923,
+    "lng": 9.0884271,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 5 – Ganterschwil",
+        "date": "2021-08-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5768bfd0-01c3-4f92-87d5-8fc4c6d56d0a"
+      },
+      {
+        "title": "St. Gallen – Tag 5 – Ganterschwil",
+        "date": "2020-10-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0e97a269-a636-48ff-afa4-5aa84bb77e7d"
+      }
+    ]
+  },
+  {
+    "name": "Kirchberg",
+    "lat": 47.085166,
+    "lng": 7.5815694,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 4 – Kirchberg",
+        "date": "2021-08-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/496d31cf-e0fe-48cb-ab78-b212cb415e5b"
+      },
+      {
+        "title": "St. Gallen – Tag 4 – Kirchberg",
+        "date": "2020-10-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/72f5389e-5d80-4d46-97ec-0ccab2222e11"
+      }
+    ]
+  },
+  {
+    "name": "Goldingen",
+    "lat": 47.2628195,
+    "lng": 8.9665579,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 3 – Goldingen",
+        "date": "2021-08-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/86437e8d-745b-4898-bed6-d4e6f5e4959e"
+      },
+      {
+        "title": "St. Gallen – Tag 3 – Goldingen",
+        "date": "2020-10-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/734d14ab-4352-48bc-a32d-b2a09e08f7f8"
+      }
+    ]
+  },
+  {
+    "name": "Unterterzen",
+    "lat": 47.1138237,
+    "lng": 9.2549987,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 2 – Unterterzen",
+        "date": "2021-08-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d5735e0f-84e8-44f7-aca1-6197b059bfdc"
+      },
+      {
+        "title": "St. Gallen – Tag 2 – Unterterzen",
+        "date": "2020-10-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7e51cb2f-9643-4ec4-9eec-6e07fbedbdfa"
+      }
+    ]
+  },
+  {
+    "name": "Flums",
+    "lat": 47.0939665,
+    "lng": 9.343589,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 1 – Flums",
+        "date": "2021-08-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2a966740-67b6-4f47-b7f8-3dad0f71773a"
+      },
+      {
+        "title": "St. Gallen – Tag 1 – Flums",
+        "date": "2020-10-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f566dbed-6c13-40be-9426-c4d06d0dbe04"
+      }
+    ]
+  },
+  {
+    "name": "Biberstein",
+    "lat": 47.4140667,
+    "lng": 8.0821155,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 5 – Biberstein",
+        "date": "2021-07-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d6eb9346-7650-45fc-ade2-99b96cba95d0"
+      },
+      {
+        "title": "Aargau – Tag 5 – Biberstein",
+        "date": "2020-12-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ac10a2b4-4212-47f9-bcdd-61bd180dd6c3"
+      }
+    ]
+  },
+  {
+    "name": "Baden",
+    "lat": 47.4736827,
+    "lng": 8.3086822,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 4 – Baden",
+        "date": "2021-07-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/41c16328-475e-49be-97c4-75ae73c803bd"
+      },
+      {
+        "title": "Aargau – Tag 4 – Baden",
+        "date": "2020-12-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d3134e36-8d96-47be-876c-612debd6b176"
+      }
+    ]
+  },
+  {
+    "name": "Spreitenbach",
+    "lat": 47.4182444,
+    "lng": 8.3640342,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 3 – Spreitenbach",
+        "date": "2021-07-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ac16aaa7-ff2d-4924-9125-876a34215230"
+      },
+      {
+        "title": "Aargau – Tag 3 – Spreitenbach",
+        "date": "2020-12-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f47bef11-9b96-4d2c-953e-a0f68d0142c1"
+      }
+    ]
+  },
+  {
+    "name": "Kölliken",
+    "lat": 47.3352673,
+    "lng": 8.0231804,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 2 – Kölliken",
+        "date": "2021-07-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/50547dca-66a5-4b5f-ac34-9b1b1e013ba1"
+      },
+      {
+        "title": "Aargau – Tag 2 – Kölliken",
+        "date": "2020-12-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ab46111d-7480-4642-b223-937cfeac3e9d"
+      }
+    ]
+  },
+  {
+    "name": "Remigen",
+    "lat": 47.5164278,
+    "lng": 8.1903933,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 1 – Remigen",
+        "date": "2021-07-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9a7ecda7-4b13-4f46-a0f0-f9350185c93f"
+      },
+      {
+        "title": "Aargau – Tag 1 – Remigen",
+        "date": "2020-12-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f408b337-5ed6-411e-bd3f-7a6b4102997b"
+      }
+    ]
+  },
+  {
+    "name": "Vals",
+    "lat": 46.6165853,
+    "lng": 9.1805169,
+    "episodes": [
+      {
+        "title": "Graubünden –Tag 5 – Vals",
+        "date": "2021-07-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ee1cd739-6ae2-446b-aec5-43905990db84"
+      },
+      {
+        "title": "Graubünden –Tag 5 – Vals",
+        "date": "2020-09-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0586653d-7bba-484d-b62e-099c8f4a3746"
+      }
+    ]
+  },
+  {
+    "name": "Uors",
+    "lat": 46.7007527,
+    "lng": 9.1824463,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 4 – Uors",
+        "date": "2021-07-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6ce7a95d-c89c-471d-9098-4a7a44e99ae2"
+      },
+      {
+        "title": "Graubünden – Tag 4 – Uors",
+        "date": "2020-09-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f664a721-075d-40d3-9e49-15f38ba3189f"
+      }
+    ]
+  },
+  {
+    "name": "Rueun",
+    "lat": 46.7791235,
+    "lng": 9.149704,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 3 – Rueun",
+        "date": "2021-07-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b25a0255-cf6f-465b-944f-ba2e08635bfc"
+      },
+      {
+        "title": "Graubünden – Tag 3 – Rueun",
+        "date": "2020-09-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f2014b85-4c22-4528-bee4-bcf9fc1b9c96"
+      }
+    ]
+  },
+  {
+    "name": "Luven",
+    "lat": 46.7611503,
+    "lng": 9.1989494,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 2 – Luven",
+        "date": "2021-07-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c2ac48f4-8c76-4706-8704-806f271601a4"
+      },
+      {
+        "title": "Graubünden – Tag 2 – Luven",
+        "date": "2020-09-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/be5fd5a6-8f3f-481f-9b97-32851d3820f6"
+      }
+    ]
+  },
+  {
+    "name": "Flond",
+    "lat": 46.7675602,
+    "lng": 9.1652798,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 1 – Flond",
+        "date": "2021-07-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/eaebca98-ac84-42f4-904a-4eec3265bb72"
+      },
+      {
+        "title": "Graubünden – Tag 1 – Flond",
+        "date": "2020-09-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b02bc642-6ee4-45fd-bcf1-fe24b9f207e1"
+      }
+    ]
+  },
+  {
+    "name": "Hochwacht",
+    "lat": 47.1473198,
+    "lng": 8.5407044,
+    "episodes": [
+      {
+        "title": "Luzern Stadt – Tag 5 – Hochwacht",
+        "date": "2021-07-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c76b5f0b-c1d1-406f-945c-50ff5a0341e4"
+      },
+      {
+        "title": "Luzern Stadt – Tag 5 – Hochwacht",
+        "date": "2020-05-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2b2111f5-12ef-46fa-ac19-c7f1f713c59b"
+      }
+    ]
+  },
+  {
+    "name": "Kleinstadt",
+    "lat": 47.0503465,
+    "lng": 8.3024913,
+    "episodes": [
+      {
+        "title": "Luzern Stadt – Tag 4 – Kleinstadt",
+        "date": "2021-07-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fa172be6-89ab-4117-810b-48519c298a86"
+      },
+      {
+        "title": "Luzern Stadt – Tag 4 – Kleinstadt",
+        "date": "2020-05-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fe9a4071-fc4b-4864-99c0-d505917a5304"
+      }
+    ]
+  },
+  {
+    "name": "Luegisland",
+    "lat": 47.0538856,
+    "lng": 8.3008317,
+    "episodes": [
+      {
+        "title": "Luzern Stadt – Tag 2 – Luegisland",
+        "date": "2021-07-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/12b3a2ed-578a-4a45-b719-107f092e29e7"
+      },
+      {
+        "title": "Luzern Stadt – Tag 2 – Luegisland",
+        "date": "2020-05-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/85de67d0-22f2-4aa1-9b19-b753bd3c9dcc"
+      }
+    ]
+  },
+  {
+    "name": "Hirschmatt-Neustadt",
+    "lat": 47.0471747,
+    "lng": 8.307713,
+    "episodes": [
+      {
+        "title": "Luzern Stadt – Tag 1 – Hirschmatt-Neustadt",
+        "date": "2021-07-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e06f65b5-e82b-4ef7-8417-8790efbcf756"
+      },
+      {
+        "title": "Luzern Stadt – Tag 1 – Hirschmatt-Neustadt",
+        "date": "2020-05-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c7cf2962-dc93-41e1-b067-6e3debad23dd"
+      }
+    ]
+  },
+  {
+    "name": "Bülach",
+    "lat": 47.5172321,
+    "lng": 8.5407118,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 5  – Bülach",
+        "date": "2021-07-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c29d1147-bcfe-4d0d-b037-dd85cca19a09"
+      },
+      {
+        "title": "Zürich – Tag 5  – Bülach",
+        "date": "2020-12-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ab343ff3-728a-4992-b5f1-e6bd03946a64"
+      }
+    ]
+  },
+  {
+    "name": "Küsnacht",
+    "lat": 47.3176276,
+    "lng": 8.5830859,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 4  – Küsnacht",
+        "date": "2021-07-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/75c5643b-b2f9-413e-aeef-b9b1f72bb37b"
+      },
+      {
+        "title": "Zürich – Tag 4  – Küsnacht",
+        "date": "2020-12-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/df7aee31-8a64-42e9-a704-307736697ec8"
+      }
+    ]
+  },
+  {
+    "name": "Urdorf",
+    "lat": 47.384708,
+    "lng": 8.4259004,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 3  – Urdorf",
+        "date": "2021-07-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b9a518c5-aed5-4a6a-a579-3158df38867f"
+      },
+      {
+        "title": "Zürich – Tag 3  – Urdorf",
+        "date": "2020-12-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/950328ac-a083-465a-b8dc-6257bdd1bdf6"
+      }
+    ]
+  },
+  {
+    "name": "Wald",
+    "lat": 46.8801804,
+    "lng": 7.4605805,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 2  – Wald",
+        "date": "2021-07-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3c85088e-dd26-482f-a1ff-b04288a76c6a"
+      },
+      {
+        "title": "Zürich – Tag 2  – Wald",
+        "date": "2020-12-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e6746645-a4a2-4271-872d-c2834edd010e"
+      },
+      {
+        "title": "Appenzell – Tag 2 – Wald",
+        "date": "2020-02-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6f3ffce7-53b3-41ed-a48d-0e6fbef3f231"
+      }
+    ]
+  },
+  {
+    "name": "Uster",
+    "lat": 47.3512065,
+    "lng": 8.7179221,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 1 – Uster",
+        "date": "2021-07-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c4fca7a0-2ed8-4fee-8d1b-67109e631342"
+      },
+      {
+        "title": "Zürich – Tag 1 – Uster",
+        "date": "2020-12-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/88702d9d-e369-45bd-a1e8-02530be74c24"
+      }
+    ]
+  },
+  {
+    "name": "Aeschi bei Spiez",
+    "lat": 46.6583588,
+    "lng": 7.6965086,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 5 – Aeschi bei Spiez",
+        "date": "2021-07-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5070dc60-e270-4bfa-aa8a-9e8509b91fc6"
+      },
+      {
+        "title": "Berner Oberland – Tag 5 – Aeschi bei Spiez",
+        "date": "2020-03-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6ffc8aea-58ab-4794-86d9-c5229460746e"
+      }
+    ]
+  },
+  {
+    "name": "Interlaken",
+    "lat": 46.6855231,
+    "lng": 7.8585139,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 4 – Interlaken",
+        "date": "2021-07-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/19fdb808-afe7-47f6-b5fa-8e5e1a1ba67a"
+      },
+      {
+        "title": "Berner Oberland – Tag 4 – Interlaken",
+        "date": "2020-03-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fdd4a478-6916-45d7-9be4-a1b4f1df5303"
+      }
+    ]
+  },
+  {
+    "name": "Ringgenberg",
+    "lat": 46.7044135,
+    "lng": 7.8960911,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 3 – Ringgenberg",
+        "date": "2021-06-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/eeadcacd-76f7-4320-9214-71a4a8e7d0a3"
+      },
+      {
+        "title": "Berner Oberland – Tag 3 – Ringgenberg",
+        "date": "2020-03-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/64da68ce-40ef-4da1-806d-363f3d8cc5c9"
+      }
+    ]
+  },
+  {
+    "name": "Gadmen",
+    "lat": 46.7035838,
+    "lng": 8.3801261,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 2 – Gadmen",
+        "date": "2021-06-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/115d61e0-08ec-4096-b4a2-84deac977617"
+      },
+      {
+        "title": "Berner Oberland – Tag 2 – Gadmen",
+        "date": "2020-03-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1afbee36-86ba-41c6-8f42-1fb5a0db603e"
+      }
+    ]
+  },
+  {
+    "name": "Meiringen",
+    "lat": 46.7285518,
+    "lng": 8.1870934,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 1 – Meiringen",
+        "date": "2021-06-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f43fb605-7fcc-4ee4-b0b5-e89d30bf550e"
+      },
+      {
+        "title": "Berner Oberland – Tag 1 – Meiringen",
+        "date": "2020-03-17T17:00:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cb32d5f0-153f-4a3b-b7b7-a21f1909366f"
+      }
+    ]
+  },
+  {
+    "name": "Sommeri",
+    "lat": 47.567253,
+    "lng": 9.2900603,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 5 – Sommeri",
+        "date": "2021-06-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/adbe892c-49f1-4671-aa8a-19b78deb88c7"
+      },
+      {
+        "title": "Thurgau – Tag 5 – Sommeri",
+        "date": "2020-03-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/772fd702-55ff-48e2-83b0-da79526a757c"
+      }
+    ]
+  },
+  {
+    "name": "Sulgen",
+    "lat": 47.5452654,
+    "lng": 9.181648,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 4 – Sulgen",
+        "date": "2021-06-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a532b306-c3c9-4b10-8d94-a82c6a2c6696"
+      },
+      {
+        "title": "Thurgau – Tag 4 – Sulgen",
+        "date": "2020-03-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4d9ce14a-3415-4b6d-ab8e-f67d24428f99"
+      }
+    ]
+  },
+  {
+    "name": "Märstetten",
+    "lat": 47.5926085,
+    "lng": 9.0677996,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 3 – Märstetten",
+        "date": "2021-06-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2ec4e2c1-707a-4dda-829b-4a38d4ad2c55"
+      },
+      {
+        "title": "Thurgau – Tag 3 – Märstetten",
+        "date": "2020-03-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aa1fbcb7-5204-4373-8a4a-cb8a0dc2e613"
+      }
+    ]
+  },
+  {
+    "name": "Amriswil",
+    "lat": 47.5500227,
+    "lng": 9.2981219,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 2 – Amriswil",
+        "date": "2021-06-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/72c31f78-f642-44f5-b0c7-8375c2b3d9af"
+      },
+      {
+        "title": "Thurgau – Tag 2 – Amriswil",
+        "date": "2020-03-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6aa4fec9-5444-4e88-b20a-4d1c3c7dd69b"
+      }
+    ]
+  },
+  {
+    "name": "Langrickenbach",
+    "lat": 47.5935913,
+    "lng": 9.2472949,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 1 – Langrickenbach",
+        "date": "2021-06-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/69adb1dd-8beb-4587-8d8a-da90419e9ef1"
+      },
+      {
+        "title": "Thurgau – Tag 1 – Langrickenbach",
+        "date": "2020-03-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/673e7563-1a3f-4ed6-b475-87f44fe98121"
+      }
+    ]
+  },
+  {
+    "name": "Löhningen",
+    "lat": 47.7017281,
+    "lng": 8.5510216,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 4 – Löhningen",
+        "date": "2021-05-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bd41e667-eb8b-4416-858c-6e239c9e6573"
+      }
+    ]
+  },
+  {
+    "name": "Schleitheim",
+    "lat": 47.7488818,
+    "lng": 8.4845902,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 3 – Schleitheim",
+        "date": "2021-05-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/621bd72b-b659-49fc-8a2e-dd7ba52dd5bc"
+      }
+    ]
+  },
+  {
+    "name": "Hemishofen",
+    "lat": 47.6768621,
+    "lng": 8.8317626,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 2 – Hemishofen",
+        "date": "2021-05-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/58268b02-9f90-4e5f-a0fd-cef76456d0de"
+      }
+    ]
+  },
+  {
+    "name": "Buchberg",
+    "lat": 47.5726201,
+    "lng": 8.56076,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 1 – Buchberg",
+        "date": "2021-05-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3995dff0-35fe-4113-ad0b-3d6de9ec2694"
+      }
+    ]
+  },
+  {
+    "name": "Meikirch",
+    "lat": 47.0088655,
+    "lng": 7.3634614,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 5 – Meikirch",
+        "date": "2021-05-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a1ba99fc-f6c3-4bfc-9402-adc3da6ce1a0"
+      }
+    ]
+  },
+  {
+    "name": "Zimmerwald",
+    "lat": 46.8804779,
+    "lng": 7.4704391,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 4 – Zimmerwald",
+        "date": "2021-05-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fcded687-6350-4274-a3da-26577de90574"
+      }
+    ]
+  },
+  {
+    "name": "Wichtrach",
+    "lat": 46.8457306,
+    "lng": 7.5783419,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 3 – Wichtrach",
+        "date": "2021-05-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/37c4288c-40f4-4b75-af74-d3b194c9e44c"
+      }
+    ]
+  },
+  {
+    "name": "Bäriswil",
+    "lat": 47.0186014,
+    "lng": 7.52538,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 2 – Bäriswil",
+        "date": "2021-05-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/544a6ec0-351c-4dd3-a39e-5f53fefa4df5"
+      }
+    ]
+  },
+  {
+    "name": "Biglen",
+    "lat": 46.9263129,
+    "lng": 7.6278668,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 1 – Biglen",
+        "date": "2021-05-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a3b13a6d-f291-442c-b01b-813149e31ea7"
+      }
+    ]
+  },
+  {
+    "name": "Weissbad",
+    "lat": 47.3086841,
+    "lng": 9.4342407,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 5 – Weissbad",
+        "date": "2021-05-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4c0ce712-b1d6-40b8-95fb-50eabf705818"
+      }
+    ]
+  },
+  {
+    "name": "Bühler",
+    "lat": 47.3743991,
+    "lng": 9.4233806,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 4 – Bühler",
+        "date": "2021-05-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bc6227b0-730d-4c0a-8968-bbac2144ce47"
+      }
+    ]
+  },
+  {
+    "name": "Grub",
+    "lat": 47.4481664,
+    "lng": 9.5094743,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 3 – Grub",
+        "date": "2021-05-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/561e3577-d979-42a5-8087-d77dc0916d37"
+      }
+    ]
+  },
+  {
+    "name": "Stein",
+    "lat": 47.3782288,
+    "lng": 9.3416677,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 2 – Stein",
+        "date": "2021-05-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5877904d-c7e1-46d9-b8dc-49a90a27be07"
+      },
+      {
+        "title": "Appenzellerland – Tag 4 – Stein",
+        "date": "2019-06-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a9906297-4d06-4263-8e4b-7d6ace6805be"
+      }
+    ]
+  },
+  {
+    "name": "Gais",
+    "lat": 47.3625034,
+    "lng": 9.4542517,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 1 – Gais",
+        "date": "2021-05-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6f90d6ba-18b4-4a6b-a2ab-1cd9665532d5"
+      }
+    ]
+  },
+  {
+    "name": "Stalden",
+    "lat": 46.2325963,
+    "lng": 7.8704203,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 5 – Stalden",
+        "date": "2021-05-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a7040315-5db8-4f8a-9e23-455aa17493de"
+      }
+    ]
+  },
+  {
+    "name": "Raron",
+    "lat": 46.309934,
+    "lng": 7.799589,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 4 – Raron",
+        "date": "2021-05-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e5dcf6dd-a6ae-4b27-9855-cafd754da343"
+      }
+    ]
+  },
+  {
+    "name": "Ausserberg",
+    "lat": 46.3153094,
+    "lng": 7.8525781,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 3 – Ausserberg",
+        "date": "2021-05-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fa660ef6-81e6-4457-9901-0f7c37cd3229"
+      }
+    ]
+  },
+  {
+    "name": "Riederalp",
+    "lat": 46.3782021,
+    "lng": 8.0334815,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 2 – Riederalp",
+        "date": "2021-05-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/632b7c56-a3d2-4253-b4ef-14b1bfa292f4"
+      }
+    ]
+  },
+  {
+    "name": "Bellwald",
+    "lat": 46.4237017,
+    "lng": 8.1599477,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 1 – Bellwald",
+        "date": "2021-05-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9419c096-31ea-46fb-b6d7-8776a334f42c"
+      },
+      {
+        "title": "Kanton Wallis – Tag 3 – Bellwald",
+        "date": "2019-03-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2326d313-dae0-4ad7-9ace-11126e67da04"
+      }
+    ]
+  },
+  {
+    "name": "Balzers",
+    "lat": 47.0540765,
+    "lng": 9.4996436,
+    "episodes": [
+      {
+        "title": "Liechtenstein – Tag 4 – Balzers",
+        "date": "2021-04-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7f209db5-4136-49ae-9130-c3001acd31c8"
+      }
+    ]
+  },
+  {
+    "name": "Vaduz",
+    "lat": 47.1324541,
+    "lng": 9.511668,
+    "episodes": [
+      {
+        "title": "Liechtenstein – Tag 3 – Vaduz",
+        "date": "2021-04-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/76cb53a8-ed3d-49fa-919f-ce7f18b86e52"
+      }
+    ]
+  },
+  {
+    "name": "Eschen",
+    "lat": 47.1225243,
+    "lng": 9.04188,
+    "episodes": [
+      {
+        "title": "Liechtenstein – Tag 2 – Eschen",
+        "date": "2021-04-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e1c8ea82-43e7-4628-abd9-abfec54f61cf"
+      }
+    ]
+  },
+  {
+    "name": "Schaan",
+    "lat": 47.0973699,
+    "lng": 9.4771334,
+    "episodes": [
+      {
+        "title": "Liechtenstein – Tag 1 – Schaan",
+        "date": "2021-04-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/54a2b1df-d1f0-4bb2-ad24-343ffb920960"
+      }
+    ]
+  },
+  {
+    "name": "Stansstad",
+    "lat": 46.979741,
+    "lng": 8.3373667,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 4 – Stansstad",
+        "date": "2021-04-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0bc0eca3-4b9a-448f-be1d-0d848be10e00"
+      },
+      {
+        "title": "Nidwalden – Tag 2 – Stansstad",
+        "date": "2020-05-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/73e69b32-6d9f-446c-a273-c6c8ba953d04"
+      }
+    ]
+  },
+  {
+    "name": "Buochs",
+    "lat": 46.9739978,
+    "lng": 8.4205883,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 3 – Buochs",
+        "date": "2021-04-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/83fb5500-a161-4fcf-bbd7-be8beb8b8cc4"
+      },
+      {
+        "title": "Kanton Nidwalden – Tag 1 – Buochs",
+        "date": "2019-11-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/11f4cce3-ea6c-4006-8493-1698bada9bfa"
+      }
+    ]
+  },
+  {
+    "name": "Ennetbürgen",
+    "lat": 46.9851867,
+    "lng": 8.4128263,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 2 – Ennetbürgen",
+        "date": "2021-04-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d797664c-30dc-4d16-9210-c803017da86d"
+      }
+    ]
+  },
+  {
+    "name": "Hergiswil",
+    "lat": 46.9840938,
+    "lng": 8.3104542,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 1 – Hergiswil",
+        "date": "2021-04-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/85ee7611-f2e9-4646-8581-23ad12d5d353"
+      },
+      {
+        "title": "Nidwalden – Tag 3 – Hergiswil",
+        "date": "2020-05-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/65324801-a46c-4777-bad7-ca173aadfd52"
+      }
+    ]
+  },
+  {
+    "name": "Mellingen",
+    "lat": 47.4195131,
+    "lng": 8.274659,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 5 – Mellingen",
+        "date": "2021-04-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/276437f2-27ad-4b05-91e4-5d8c08eccaf0"
+      }
+    ]
+  },
+  {
+    "name": "Döttingen",
+    "lat": 47.5739904,
+    "lng": 8.2569004,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 4 – Döttingen",
+        "date": "2021-04-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8e67fe53-4dcb-4598-8b9f-c4fb251b032e"
+      }
+    ]
+  },
+  {
+    "name": "Lengnau",
+    "lat": 47.521079,
+    "lng": 8.3301378,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 3 – Lengnau",
+        "date": "2021-04-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c8875f30-d3a6-4787-854a-9b35115912e7"
+      }
+    ]
+  },
+  {
+    "name": "Ammerswil",
+    "lat": 47.3705625,
+    "lng": 8.2061524,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 2 – Ammerswil",
+        "date": "2021-04-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/499339cd-6736-4fc4-8c43-4014799e8909"
+      }
+    ]
+  },
+  {
+    "name": "Gipf-Oberfrick",
+    "lat": 47.4975112,
+    "lng": 8.0029699,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 1 – Gipf-Oberfrick",
+        "date": "2021-04-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bb0d879a-20f3-4cb2-9da8-1b84e614181e"
+      }
+    ]
+  },
+  {
+    "name": "Messen",
+    "lat": 47.0904081,
+    "lng": 7.4473453,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 4 – Messen",
+        "date": "2021-04-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/90125db7-f412-4eda-8578-992145e888ae"
+      }
+    ]
+  },
+  {
+    "name": "Oensingen",
+    "lat": 47.2874895,
+    "lng": 7.7110465,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 3 – Oensingen",
+        "date": "2021-04-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/32e8d27a-2dd0-4aa4-8206-5d0104f8179c"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 4 – Oensingen",
+        "date": "2019-06-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e671ef4d-2d2a-4e63-8c02-7142606dc00f"
+      }
+    ]
+  },
+  {
+    "name": "Balsthal",
+    "lat": 47.3140365,
+    "lng": 7.6947764,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 2 – Balsthal",
+        "date": "2021-04-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8bf6f858-3888-4b7d-9753-1a5f0fef051b"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 1 – Balsthal",
+        "date": "2019-06-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/209aa792-ecd5-4fc0-bf9a-736004ed22d5"
+      }
+    ]
+  },
+  {
+    "name": "Bettlach",
+    "lat": 47.2017347,
+    "lng": 7.4254322,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 1 – Bettlach",
+        "date": "2021-04-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c6bd8a50-6866-4ab7-86e7-979dda5539bc"
+      }
+    ]
+  },
+  {
+    "name": "Gams",
+    "lat": 47.2054106,
+    "lng": 9.4421264,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 4 – Gams",
+        "date": "2021-04-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f8571b62-d271-4e3c-9984-138893500689"
+      }
+    ]
+  },
+  {
+    "name": "Grabs",
+    "lat": 47.1816557,
+    "lng": 9.4446312,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 3 – Grabs",
+        "date": "2021-03-31T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4d157a70-c980-4079-87a1-759f72ac696b"
+      }
+    ]
+  },
+  {
+    "name": "Rapperswil",
+    "lat": 47.2266532,
+    "lng": 8.8164042,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 2 – Rapperswil",
+        "date": "2021-03-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c5bdaa6-495f-4cd2-ac63-93500a5b237b"
+      }
+    ]
+  },
+  {
+    "name": "Diepoldsau",
+    "lat": 47.3859513,
+    "lng": 9.6556042,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 1 – Diepoldsau",
+        "date": "2021-03-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/41a8d029-03ba-4dfc-8279-0dfe9971f09f"
+      }
+    ]
+  },
+  {
+    "name": "Wangen",
+    "lat": 47.2353036,
+    "lng": 7.65517,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 5 – Wangen",
+        "date": "2021-03-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/757b35a4-2f35-411c-b641-c8d77c054182"
+      }
+    ]
+  },
+  {
+    "name": "Altendorf",
+    "lat": 47.1916374,
+    "lng": 8.8294983,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 4 – Altendorf",
+        "date": "2021-03-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/87e9a6a6-e68a-414c-8336-80a8132b2cb5"
+      },
+      {
+        "title": "Schwyz – Tag 5 – Altendorf",
+        "date": "2020-06-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/794d4be6-150e-42e2-ba4d-1fa0b799bb78"
+      }
+    ]
+  },
+  {
+    "name": "Oberiberg",
+    "lat": 47.0391767,
+    "lng": 8.7834161,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 3 – Oberiberg",
+        "date": "2021-03-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/482d2be8-e969-4964-8d45-f4de59b8da80"
+      }
+    ]
+  },
+  {
+    "name": "Ibach",
+    "lat": 47.012328,
+    "lng": 8.6436145,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 2 – Ibach",
+        "date": "2021-03-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/26695877-42e1-498d-9fb6-45d2ad7331ad"
+      }
+    ]
+  },
+  {
+    "name": "Arth",
+    "lat": 47.0644551,
+    "lng": 8.5238673,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 1 – Arth",
+        "date": "2021-03-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/991d2e6c-3382-4799-9179-4684df5cd520"
+      }
+    ]
+  },
+  {
+    "name": "Doppleschwand",
+    "lat": 47.0180974,
+    "lng": 8.0553111,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 5 – Doppleschwand",
+        "date": "2021-03-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5491315a-94be-4b7b-a807-ea69cb4b7950"
+      }
+    ]
+  },
+  {
+    "name": "Emmen",
+    "lat": 47.0752429,
+    "lng": 8.2839456,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 4 – Emmen",
+        "date": "2021-03-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7ce2c47f-db87-4bd1-83d1-79cafb757c0c"
+      }
+    ]
+  },
+  {
+    "name": "Ballwil",
+    "lat": 47.1521716,
+    "lng": 8.3185717,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 3 – Ballwil",
+        "date": "2021-03-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5fe81859-6d60-4eea-9471-d42890567693"
+      }
+    ]
+  },
+  {
+    "name": "Ruswil",
+    "lat": 47.0839416,
+    "lng": 8.126227,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 2 – Ruswil",
+        "date": "2021-03-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ad0b31b9-3eac-4d5d-9b44-775a97bef3c2"
+      }
+    ]
+  },
+  {
+    "name": "Menznau",
+    "lat": 47.0838106,
+    "lng": 8.040131,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 1 – Menznau",
+        "date": "2021-03-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a1a45368-2774-4c15-9202-e5290a80f0d7"
+      }
+    ]
+  },
+  {
+    "name": "Elgg",
+    "lat": 47.4902329,
+    "lng": 8.8669115,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 5 – Elgg",
+        "date": "2021-03-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/faa53f31-5ffc-40b9-91cd-6560865b7aaa"
+      }
+    ]
+  },
+  {
+    "name": "Greifensee",
+    "lat": 47.3662476,
+    "lng": 8.6786693,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 4 – Greifensee",
+        "date": "2021-03-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d8a87e64-71b5-4da4-81aa-4e062a8653fd"
+      }
+    ]
+  },
+  {
+    "name": "Stadel",
+    "lat": 47.5376222,
+    "lng": 8.4682973,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 3 – Stadel",
+        "date": "2021-03-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a7fe5afd-4646-4962-a255-e7d92c23ec02"
+      }
+    ]
+  },
+  {
+    "name": "Gossau",
+    "lat": 47.4155906,
+    "lng": 9.249359,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 2 – Gossau",
+        "date": "2021-03-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6c709a25-cf82-4862-a6dd-2244e814da62"
+      },
+      {
+        "title": "Kanton St. Gallen – Tag 2 – Gossau",
+        "date": "2019-05-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7cd3c9be-3bd3-4071-87d9-8f123ca53ca3"
+      }
+    ]
+  },
+  {
+    "name": "Kyburg",
+    "lat": 47.4570858,
+    "lng": 8.744344,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 1 – Kyburg",
+        "date": "2021-03-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/660208c3-2775-4548-b087-82121a5f6e9b"
+      }
+    ]
+  },
+  {
+    "name": "Bellinzona",
+    "lat": 46.1920538,
+    "lng": 9.0205888,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 5 – Bellinzona",
+        "date": "2021-03-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/67f553b2-1ae8-4f14-acfc-73d2213b7f2a"
+      }
+    ]
+  },
+  {
+    "name": "Olivone",
+    "lat": 46.5303957,
+    "lng": 8.9384493,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 4 – Olivone",
+        "date": "2021-03-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/33dcee8a-3e4a-4fdf-8071-180b6909e2e2"
+      }
+    ]
+  },
+  {
+    "name": "Osogna",
+    "lat": 46.311565,
+    "lng": 8.9873524,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 3 – Osogna",
+        "date": "2021-03-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/822d5e58-57a0-45d8-aff7-17d3cf1ee8dd"
+      }
+    ]
+  },
+  {
+    "name": "Faido",
+    "lat": 46.4780427,
+    "lng": 8.8009322,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 2 – Faido",
+        "date": "2021-03-02T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aae02fc4-58be-40e9-982e-a224ffc3d71f"
+      }
+    ]
+  },
+  {
+    "name": "Claro",
+    "lat": 46.2552548,
+    "lng": 9.0231951,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 1 – Claro",
+        "date": "2021-03-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/29aa18ec-47f2-4e85-bc83-bd8d409118d2"
+      }
+    ]
+  },
+  {
+    "name": "Schwanden",
+    "lat": 46.9955628,
+    "lng": 9.0713622,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 5 – Schwanden",
+        "date": "2021-02-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1114b25b-caba-432d-811e-698824bdd419"
+      },
+      {
+        "title": "Glarus – Tag 1 – Schwanden",
+        "date": "2020-06-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/72b802c9-efa7-43b8-b10e-6bac080b9825"
+      },
+      {
+        "title": "Kanton Glarus – Tag 1 – Schwanden",
+        "date": "2019-08-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4379608e-abd4-4885-a520-65951f206520"
+      }
+    ]
+  },
+  {
+    "name": "Ennenda",
+    "lat": 47.033828,
+    "lng": 9.0779218,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 4 – Ennenda",
+        "date": "2021-02-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7b7148a7-ac3e-416d-b335-f75f5568b168"
+      }
+    ]
+  },
+  {
+    "name": "Niederurnen",
+    "lat": 47.1256182,
+    "lng": 9.0535784,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 3 – Niederurnen",
+        "date": "2021-02-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4ff7194a-676b-4483-8ee8-271f1d9f577b"
+      }
+    ]
+  },
+  {
+    "name": "Bilten",
+    "lat": 47.1500911,
+    "lng": 9.0221711,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 2 – Bilten",
+        "date": "2021-02-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/091063d4-9613-4b5f-96ba-2b0ffba6f6fc"
+      }
+    ]
+  },
+  {
+    "name": "Riedern",
+    "lat": 47.0499479,
+    "lng": 9.0515165,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 1 – Riedern",
+        "date": "2021-02-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cc54979f-e873-4b08-a044-3cb8860f47e5"
+      }
+    ]
+  },
+  {
+    "name": "Bümpliz",
+    "lat": 46.9436443,
+    "lng": 7.3893222,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 5 – Bümpliz",
+        "date": "2021-02-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4713331a-1936-4cde-a5d5-f82ad5af4481"
+      },
+      {
+        "title": "Stadt Bern – Tag 3 – Bümpliz",
+        "date": "2020-08-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/dbe239f7-efd2-4d79-8b55-cfff75374b66"
+      },
+      {
+        "title": "Stadt Bern – Tag 5 – Bümpliz",
+        "date": "2019-12-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9e6d4799-698a-40ab-a259-e3a3d79b1452"
+      }
+    ]
+  },
+  {
+    "name": "Länggasse",
+    "lat": 46.9529599,
+    "lng": 7.4369536,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 4 – Länggasse",
+        "date": "2021-02-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/59a41078-efa6-454a-bd72-4b224d30d2eb"
+      },
+      {
+        "title": "Stadt Bern – Tag 2 – Länggasse",
+        "date": "2019-12-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/deb071ed-c850-4ab3-bc17-7dbc3e14870c"
+      }
+    ]
+  },
+  {
+    "name": "Mattenhof",
+    "lat": 46.9441913,
+    "lng": 7.4259556,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 3 – Mattenhof",
+        "date": "2021-02-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/33320e4f-461e-4ab4-b31f-3142c70aa850"
+      }
+    ]
+  },
+  {
+    "name": "Spitalacker",
+    "lat": 46.9562647,
+    "lng": 7.4543695,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 2 – Spitalacker",
+        "date": "2021-02-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/038161ea-ff11-4664-8c10-08b41ffda641"
+      },
+      {
+        "title": "Stadt Bern – Tag 3 – Spitalacker",
+        "date": "2019-02-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/331b7edb-4892-43f4-8b30-df2ac2fa61e8"
+      }
+    ]
+  },
+  {
+    "name": "Neufeld",
+    "lat": 46.7401438,
+    "lng": 7.610842,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 1 – Neufeld",
+        "date": "2021-02-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/08eb221c-c468-464a-bb06-7e236bfb91d1"
+      }
+    ]
+  },
+  {
+    "name": "Unterschächen",
+    "lat": 46.8631124,
+    "lng": 8.7703521,
+    "episodes": [
+      {
+        "title": "Uri – Tag 5 – Unterschächen",
+        "date": "2021-02-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/939ec046-fe75-43b6-b8e9-0130ea563d83"
+      }
+    ]
+  },
+  {
+    "name": "Seelisberg",
+    "lat": 46.977964,
+    "lng": 8.5858121,
+    "episodes": [
+      {
+        "title": "Uri – Tag 4 – Seelisberg",
+        "date": "2021-02-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/acc21119-7789-4396-9c8b-12828d01bfba"
+      },
+      {
+        "title": "Kanton Uri – Tag 1 – Seelisberg",
+        "date": "2019-06-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aec229df-b02d-41c4-9888-f159daa0b3a3"
+      }
+    ]
+  },
+  {
+    "name": "Gurtnellen",
+    "lat": 46.7292262,
+    "lng": 8.6230523,
+    "episodes": [
+      {
+        "title": "Uri – Tag 3 – Gurtnellen",
+        "date": "2021-02-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4d4ba20f-d1eb-41b5-ba5e-6eaead8a36be"
+      }
+    ]
+  },
+  {
+    "name": "Flüelen",
+    "lat": 46.9027239,
+    "lng": 8.6253481,
+    "episodes": [
+      {
+        "title": "Uri – Tag 2 – Flüelen",
+        "date": "2021-02-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c31e6bc4-39be-4e5e-98bd-05af54d92605"
+      }
+    ]
+  },
+  {
+    "name": "Schattdorf",
+    "lat": 46.8636973,
+    "lng": 8.6509309,
+    "episodes": [
+      {
+        "title": "Uri – Tag 1 – Schattdorf",
+        "date": "2021-02-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/16b19a10-212a-4d11-a538-9480dd085e07"
+      }
+    ]
+  },
+  {
+    "name": "Röschenz",
+    "lat": 47.4239414,
+    "lng": 7.4759958,
+    "episodes": [
+      {
+        "title": "Basel Landschaft – Tag 5 – Röschenz",
+        "date": "2021-02-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ff875f2b-f82b-4819-aacf-519b6402a172"
+      }
+    ]
+  },
+  {
+    "name": "Ziefen",
+    "lat": 47.4305811,
+    "lng": 7.7063432,
+    "episodes": [
+      {
+        "title": "Basel Landschaft – Tag 4 – Ziefen",
+        "date": "2021-02-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d8834c61-2fbf-4497-b977-61b50f7c90bf"
+      }
+    ]
+  },
+  {
+    "name": "Binningen",
+    "lat": 47.53656,
+    "lng": 7.570077,
+    "episodes": [
+      {
+        "title": "Basel Landschaft – Tag 3 – Binningen",
+        "date": "2021-02-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/eda8eb67-9972-4d50-9718-9bc356afbbf1"
+      }
+    ]
+  },
+  {
+    "name": "Reinach",
+    "lat": 47.4935369,
+    "lng": 7.5910891,
+    "episodes": [
+      {
+        "title": "Basel Landschaft – Tag 2 – Reinach",
+        "date": "2021-02-02T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ec6ccfda-9663-4fd1-b99a-f08a26fe02b2"
+      }
+    ]
+  },
+  {
+    "name": "Läufelfingen",
+    "lat": 47.3958161,
+    "lng": 7.8546951,
+    "episodes": [
+      {
+        "title": "Basel Landschaft – Tag 1 – Läufelfingen",
+        "date": "2021-02-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c768f105-1282-4d26-af6d-6586405e0872"
+      }
+    ]
+  },
+  {
+    "name": "Rechthalten",
+    "lat": 46.7675326,
+    "lng": 7.2400909,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 5 – Rechthalten",
+        "date": "2021-01-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1480ac9f-d825-4730-a8be-afbbd8473f24"
+      }
+    ]
+  },
+  {
+    "name": "Muntelier",
+    "lat": 46.9386253,
+    "lng": 7.1305874,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 4 – Muntelier",
+        "date": "2021-01-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3f36e663-0687-4b29-86b8-ef134b26fb8c"
+      }
+    ]
+  },
+  {
+    "name": "Düdingen",
+    "lat": 46.849747,
+    "lng": 7.1904436,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 3 – Düdingen",
+        "date": "2021-01-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/df66387a-881a-445b-a74a-f64b3eae2d0c"
+      }
+    ]
+  },
+  {
+    "name": "Praz Vully",
+    "lat": 46.9528148,
+    "lng": 7.0971525,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 2 – Praz Vully",
+        "date": "2021-01-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/287ef521-071b-412a-b840-99383f3445dd"
+      }
+    ]
+  },
+  {
+    "name": "Jaun",
+    "lat": 46.6113953,
+    "lng": 7.2761312,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 1 – Jaun",
+        "date": "2021-01-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/84274a8f-776a-410a-86d2-c31a3e4b29c2"
+      }
+    ]
+  },
+  {
+    "name": "Rotkreuz",
+    "lat": 47.1417024,
+    "lng": 8.4305526,
+    "episodes": [
+      {
+        "title": "Zug – Tag 5 – Rotkreuz",
+        "date": "2021-01-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cc0f6941-3f96-4b6c-9f2e-77fcaf3f6f15"
+      }
+    ]
+  },
+  {
+    "name": "Oberägeri",
+    "lat": 47.1347395,
+    "lng": 8.6132732,
+    "episodes": [
+      {
+        "title": "Zug – Tag 4 – Oberägeri",
+        "date": "2021-01-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/809ac6bb-8453-443e-8867-b8d473394787"
+      }
+    ]
+  },
+  {
+    "name": "Oberwil",
+    "lat": 47.5136942,
+    "lng": 7.5527853,
+    "episodes": [
+      {
+        "title": "Zug – Tag 3 – Oberwil",
+        "date": "2021-01-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/90a46a53-b98d-486f-8544-386442852159"
+      }
+    ]
+  },
+  {
+    "name": "Neuheim",
+    "lat": 47.204646,
+    "lng": 8.5751134,
+    "episodes": [
+      {
+        "title": "Zug – Tag 2 – Neuheim",
+        "date": "2021-01-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4bdff25b-9b70-45e8-a351-adc47639df38"
+      }
+    ]
+  },
+  {
+    "name": "Cham",
+    "lat": 47.1823761,
+    "lng": 8.4611036,
+    "episodes": [
+      {
+        "title": "Zug – Tag 1 – Cham",
+        "date": "2021-01-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a41933c0-aa52-428d-a2f0-51b4a00b9006"
+      },
+      {
+        "title": "Zug – Tag 1 – Cham",
+        "date": "2020-02-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/508bb328-390d-4552-842b-186a1a14c5f5"
+      }
+    ]
+  },
+  {
+    "name": "Splügen",
+    "lat": 46.553071,
+    "lng": 9.3234097,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 5 – Splügen",
+        "date": "2021-01-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/06a8304d-46a8-4e26-b17a-3ff51763bb35"
+      }
+    ]
+  },
+  {
+    "name": "Flerden",
+    "lat": 46.7022984,
+    "lng": 9.406114,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 4 – Flerden",
+        "date": "2021-01-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/04ff1b65-dc5b-4960-8b40-7737bee009c2"
+      }
+    ]
+  },
+  {
+    "name": "Rhäzüns",
+    "lat": 46.7989097,
+    "lng": 9.3979906,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 3 – Rhäzüns",
+        "date": "2021-01-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/41931729-8048-48c0-8e9c-5e47500ab0bf"
+      }
+    ]
+  },
+  {
+    "name": "Igis",
+    "lat": 46.9458165,
+    "lng": 9.5735636,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 2 – Igis",
+        "date": "2021-01-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c7d8437a-e5a0-4802-a066-5ab7db68c4e9"
+      }
+    ]
+  },
+  {
+    "name": "Ilanz",
+    "lat": 46.775575,
+    "lng": 9.2054956,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 1 – Ilanz",
+        "date": "2021-01-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/746f4324-2560-4429-a4c6-8b14697fae20"
+      }
+    ]
+  },
+  {
+    "name": "Berg",
+    "lat": 47.5679698,
+    "lng": 8.5959486,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 5 – Berg",
+        "date": "2021-01-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4250deac-a510-4e65-a281-52cad16eb365"
+      }
+    ]
+  },
+  {
+    "name": "Berlingen",
+    "lat": 47.6742604,
+    "lng": 9.0179057,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 4 – Berlingen",
+        "date": "2021-01-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/400094a2-5aa0-4780-a214-b70fd7720628"
+      }
+    ]
+  },
+  {
+    "name": "Egnach",
+    "lat": 47.5432155,
+    "lng": 9.3814541,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 3 – Egnach",
+        "date": "2021-01-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e971e976-9b7b-42b7-b865-b47ba99d1fa6"
+      }
+    ]
+  },
+  {
+    "name": "Münchwilen",
+    "lat": 47.4777697,
+    "lng": 8.9976456,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 2 – Münchwilen",
+        "date": "2021-01-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/90f4f103-1917-433b-b176-40532ea44523"
+      }
+    ]
+  },
+  {
+    "name": "Wängi",
+    "lat": 47.496703,
+    "lng": 8.9533301,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 1 – Wängi",
+        "date": "2021-01-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0ba05c09-3faf-4d88-b19a-06c05d54628f"
+      }
+    ]
+  },
+  {
+    "name": "Schötz",
+    "lat": 47.1698443,
+    "lng": 7.9884821,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 5 – Schötz",
+        "date": "2020-12-04T18:17:40+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b8751555-49d1-475c-9642-574bc3105e5e"
+      }
+    ]
+  },
+  {
+    "name": "Büron",
+    "lat": 47.2142552,
+    "lng": 8.0946583,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 4 – Büron",
+        "date": "2020-12-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6491d19e-93ac-4cd0-9098-897d295265dc"
+      }
+    ]
+  },
+  {
+    "name": "Kriens",
+    "lat": 47.034146,
+    "lng": 8.2807994,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 3  – Kriens",
+        "date": "2020-12-02T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e0a3b74f-37ac-4b36-9aaf-b116a9923dd6"
+      }
+    ]
+  },
+  {
+    "name": "Buttisholz",
+    "lat": 47.1139601,
+    "lng": 8.0935047,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 2  – Buttisholz",
+        "date": "2020-12-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fce6fcfa-1b98-4cd7-a9bc-bae168f678ef"
+      }
+    ]
+  },
+  {
+    "name": "Eich",
+    "lat": 47.1515249,
+    "lng": 8.1691162,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 1 – Eich",
+        "date": "2020-11-30T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/da2ed7be-2315-4c0f-bcf6-e04bc3b8d5a2"
+      }
+    ]
+  },
+  {
+    "name": "Lalden",
+    "lat": 46.300193,
+    "lng": 7.900266,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 5 – Lalden",
+        "date": "2020-11-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6f69c5e1-7ebf-4572-b34d-c12e5bd363e3"
+      }
+    ]
+  },
+  {
+    "name": "Fiesch",
+    "lat": 46.402946,
+    "lng": 8.1341501,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 4 – Fiesch",
+        "date": "2020-11-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d5114758-3283-4857-ba49-576c5083bd05"
+      }
+    ]
+  },
+  {
+    "name": "Zeneggen",
+    "lat": 46.2731779,
+    "lng": 7.8656201,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 3 – Zeneggen",
+        "date": "2020-11-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/946611e0-d29b-4143-8073-534ff196dc93"
+      }
+    ]
+  },
+  {
+    "name": "Simplon Dorf",
+    "lat": 46.1955875,
+    "lng": 8.0563136,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 2 – Simplon Dorf",
+        "date": "2020-11-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2f7cecf4-5d6b-4114-bc0c-5c8d63f9cf2a"
+      }
+    ]
+  },
+  {
+    "name": "Törbel",
+    "lat": 46.2385196,
+    "lng": 7.851508,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 1 – Törbel",
+        "date": "2020-11-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c2d5bd74-a9af-4d2d-b650-bbc97af16db5"
+      }
+    ]
+  },
+  {
+    "name": "Laufen",
+    "lat": 47.4224096,
+    "lng": 7.5020019,
+    "episodes": [
+      {
+        "title": "Basel–Landschaft –Tag 5 – Laufen",
+        "date": "2020-11-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cba25218-2d37-48a8-af7a-1489e28eb5c7"
+      }
+    ]
+  },
+  {
+    "name": "Pratteln",
+    "lat": 47.5192013,
+    "lng": 7.6944741,
+    "episodes": [
+      {
+        "title": "Basel–Landschaft – Tag 4 – Pratteln",
+        "date": "2020-11-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f27c6793-b6e3-48f4-aaeb-03985a4a5abf"
+      }
+    ]
+  },
+  {
+    "name": "Therwil",
+    "lat": 47.4992969,
+    "lng": 7.5574673,
+    "episodes": [
+      {
+        "title": "Basel–Landschaft– Tag 3 – Therwil",
+        "date": "2020-11-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ff83d140-e91b-4a46-84e6-2ae936ffe39d"
+      }
+    ]
+  },
+  {
+    "name": "Muttenz",
+    "lat": 47.525113,
+    "lng": 7.6477401,
+    "episodes": [
+      {
+        "title": "Basel–Landschaft – Tag 2 – Muttenz",
+        "date": "2020-11-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/50c359fe-6bb7-4c3b-aae0-6b105a1ce78c"
+      }
+    ]
+  },
+  {
+    "name": "Liesberg Dorf",
+    "lat": 47.4037871,
+    "lng": 7.4316373,
+    "episodes": [
+      {
+        "title": "Basel–Landschaft – Tag 1 – Liesberg Dorf",
+        "date": "2020-11-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e23c4884-ff5c-41ca-a772-f2eb7f496a5a"
+      }
+    ]
+  },
+  {
+    "name": "Oberurnen",
+    "lat": 47.1152482,
+    "lng": 9.0596848,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 5 – Oberurnen",
+        "date": "2020-11-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/49f1514b-4340-4172-98a3-606b470c8da7"
+      }
+    ]
+  },
+  {
+    "name": "Betschwanden",
+    "lat": 46.9464235,
+    "lng": 9.0274873,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 4 – Betschwanden",
+        "date": "2020-11-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4cbf861c-5070-478a-83a9-d0a1c09242e7"
+      }
+    ]
+  },
+  {
+    "name": "Engi",
+    "lat": 46.9827634,
+    "lng": 9.1523442,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 3 – Engi",
+        "date": "2020-11-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b35b5169-6690-4c9f-956f-ffa850b03838"
+      }
+    ]
+  },
+  {
+    "name": "Glarus",
+    "lat": 46.9796562,
+    "lng": 9.108812,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 2 – Glarus",
+        "date": "2020-11-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/60f0a37b-188c-430c-8a6b-5b83613d1f24"
+      },
+      {
+        "title": "Kanton Glarus – Tag 3 – Glarus",
+        "date": "2019-05-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e90685fe-623a-445c-b299-2e85e683535c"
+      }
+    ]
+  },
+  {
+    "name": "Mitlödi",
+    "lat": 47.0114661,
+    "lng": 9.079913,
+    "episodes": [
+      {
+        "title": "Glarus –Tag 1 – Mitlödi",
+        "date": "2020-11-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c9568394-1fe0-414a-9578-24e457619381"
+      }
+    ]
+  },
+  {
+    "name": "Diemtigen",
+    "lat": 46.6496866,
+    "lng": 7.5665715,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 5 – Diemtigen",
+        "date": "2020-10-30T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6b3da057-eacd-4ff5-bb0b-55f9de5fffce"
+      }
+    ]
+  },
+  {
+    "name": "Thun",
+    "lat": 46.7582827,
+    "lng": 7.628086,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 4 – Thun",
+        "date": "2020-10-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/85ed5577-f1fb-4258-a48b-f831e9ca6529"
+      },
+      {
+        "title": "Berner Oberland – Tag 1 – Thun",
+        "date": "2020-08-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2d95f164-093b-46f7-874b-82ba35e3c485"
+      },
+      {
+        "title": "Berner Oberland – Tag 1 – Thun",
+        "date": "2019-09-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/453e5bb4-d70c-43af-a28c-2593b563b206"
+      }
+    ]
+  },
+  {
+    "name": "Leissigen",
+    "lat": 46.6540687,
+    "lng": 7.7738604,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 3 – Leissigen",
+        "date": "2020-10-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8c5c3ad4-62f6-4b40-bf32-044e9f862187"
+      }
+    ]
+  },
+  {
+    "name": "Steffisburg",
+    "lat": 46.7774738,
+    "lng": 7.6354195,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 2 – Steffisburg",
+        "date": "2020-10-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8a0e3af6-3809-4803-bfc5-7314ec641b2c"
+      }
+    ]
+  },
+  {
+    "name": "Frutigen",
+    "lat": 46.5874205,
+    "lng": 7.6444369,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 1 – Frutigen",
+        "date": "2020-10-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/62713136-320e-46a4-9c0a-79db21de9054"
+      },
+      {
+        "title": "Berner Oberland – Tag 3 – Frutigen",
+        "date": "2019-04-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f4abfe9f-2f38-4df5-8c9d-22e03a762920"
+      }
+    ]
+  },
+  {
+    "name": "Klingnau",
+    "lat": 47.5810046,
+    "lng": 8.2500088,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 5 – Klingnau",
+        "date": "2020-10-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5afb4d8f-a6b8-448e-bfb9-36ca969ddce8"
+      }
+    ]
+  },
+  {
+    "name": "Brugg",
+    "lat": 47.4824633,
+    "lng": 8.2085662,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 4 – Brugg",
+        "date": "2020-10-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b45adc03-55f7-47d7-96c9-2c5521ea6855"
+      }
+    ]
+  },
+  {
+    "name": "Rheinfelden",
+    "lat": 47.5543859,
+    "lng": 7.7922905,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 3 – Rheinfelden",
+        "date": "2020-10-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/949052be-7baf-43a0-b54e-777f72775f57"
+      }
+    ]
+  },
+  {
+    "name": "Bad Zurzach",
+    "lat": 47.5898382,
+    "lng": 8.2858418,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 2 – Bad Zurzach",
+        "date": "2020-10-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6dac025f-4c81-4515-92da-de85b5d7712d"
+      }
+    ]
+  },
+  {
+    "name": "Hornussen",
+    "lat": 47.5008542,
+    "lng": 8.0569782,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 1 – Hornussen",
+        "date": "2020-10-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/153edc8a-bd01-4dff-a2a2-4f95dda7635f"
+      }
+    ]
+  },
+  {
+    "name": "Hottingen Kreis 7",
+    "lat": 47.3678344,
+    "lng": 8.5600853,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 5 – Hottingen Kreis 7",
+        "date": "2020-10-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/473f0475-36c5-4cd6-9106-3914ca366969"
+      }
+    ]
+  },
+  {
+    "name": "Oerlikon Kreis 11",
+    "lat": 47.4129591,
+    "lng": 8.5471082,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 4 – Oerlikon Kreis 11",
+        "date": "2020-10-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/40fcd7dd-d80d-4a68-b1a0-adba60e47815"
+      }
+    ]
+  },
+  {
+    "name": "Enge Kreis 2",
+    "lat": 47.3677633,
+    "lng": 8.5363117,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 3 – Enge Kreis 2",
+        "date": "2020-10-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5790a395-6ae0-4b86-b406-a9d281662819"
+      }
+    ]
+  },
+  {
+    "name": "Höngg Kreis 10",
+    "lat": 47.4016598,
+    "lng": 8.4976694,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 2 – Höngg Kreis 10",
+        "date": "2020-10-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a9c1c5d2-8872-4904-834c-5cd64a485270"
+      }
+    ]
+  },
+  {
+    "name": "Industriequartier Kreis 5",
+    "lat": 47.3874988,
+    "lng": 8.5229163,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 1 – Industriequartier Kreis 5",
+        "date": "2020-10-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9e1b1515-34b0-4f36-b645-4d1901212fd4"
+      }
+    ]
+  },
+  {
+    "name": "Beringen",
+    "lat": 47.6975693,
+    "lng": 8.5733833,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 5 – Beringen",
+        "date": "2020-09-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c940e38-0209-4542-a497-e0bfd4a45260"
+      }
+    ]
+  },
+  {
+    "name": "Schaffhausen",
+    "lat": 47.6960491,
+    "lng": 8.634513,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 4 – Schaffhausen",
+        "date": "2020-09-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ebd99150-34fa-4ac0-b5cc-bc8b0f4e1878"
+      }
+    ]
+  },
+  {
+    "name": "Lohn",
+    "lat": 47.7557294,
+    "lng": 8.670356,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 2 – Lohn",
+        "date": "2020-09-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fef5e89c-09f6-481d-b28d-e61244ec9d4e"
+      }
+    ]
+  },
+  {
+    "name": "Trasadingen",
+    "lat": 47.667977,
+    "lng": 8.4304278,
+    "episodes": [
+      {
+        "title": "Schaffhausen – Tag 1 – Trasadingen",
+        "date": "2020-09-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6cb8e0ef-e13f-4f7f-b55a-7b5a87102159"
+      }
+    ]
+  },
+  {
+    "name": "Coldrerio",
+    "lat": 45.8538378,
+    "lng": 8.9871005,
+    "episodes": [
+      {
+        "title": "Tessin –Tag 5 – Coldrerio",
+        "date": "2020-09-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c0535f8-c723-47a2-9339-538c91e0fa82"
+      }
+    ]
+  },
+  {
+    "name": "Lugano",
+    "lat": 46.0050102,
+    "lng": 8.9520281,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 4 – Lugano",
+        "date": "2020-09-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e7cad63e-2039-411a-9ce9-c6d88592ea22"
+      }
+    ]
+  },
+  {
+    "name": "Balerna",
+    "lat": 45.8491908,
+    "lng": 9.0070811,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 3 – Balerna",
+        "date": "2020-09-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aed01c6c-2a4d-44e2-98ae-da6955e97b5b"
+      }
+    ]
+  },
+  {
+    "name": "Monteggio",
+    "lat": 45.9957628,
+    "lng": 8.8089353,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 2 – Monteggio",
+        "date": "2020-09-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bc607e6d-8056-4e7e-a02a-695625a66572"
+      }
+    ]
+  },
+  {
+    "name": "Melide",
+    "lat": 45.9544353,
+    "lng": 8.9476217,
+    "episodes": [
+      {
+        "title": "Tessin – Tag 1 – Melide",
+        "date": "2020-09-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2a4de3c8-d57f-4537-a0b1-b94cc4b05c7f"
+      }
+    ]
+  },
+  {
+    "name": "Dänikon",
+    "lat": 47.445933,
+    "lng": 8.4057151,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 5 – Dänikon",
+        "date": "2020-09-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/db77aa2a-51e0-4e74-8c26-9f8c0b06b90f"
+      }
+    ]
+  },
+  {
+    "name": "Hausen am Albis",
+    "lat": 47.2438769,
+    "lng": 8.534235,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 4 – Hausen am Albis",
+        "date": "2020-09-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9d9c1e28-b3da-4c4b-a41e-29bd794230a5"
+      }
+    ]
+  },
+  {
+    "name": "Watt",
+    "lat": 47.4318866,
+    "lng": 9.1599356,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 3 – Watt",
+        "date": "2020-09-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8cfefef1-2ce2-4625-b596-b4a4217821e8"
+      }
+    ]
+  },
+  {
+    "name": "Seuzach",
+    "lat": 47.534596,
+    "lng": 8.7338342,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 2 – Seuzach",
+        "date": "2020-09-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b869c83b-b705-469b-bc9b-8bfe7782edcc"
+      }
+    ]
+  },
+  {
+    "name": "Bäretswil",
+    "lat": 47.3360247,
+    "lng": 8.8580536,
+    "episodes": [
+      {
+        "title": "Zürich – Tag 1 – Bäretswil",
+        "date": "2020-08-31T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c7726cf3-4c0c-4ee8-808c-3d6f502972aa"
+      },
+      {
+        "title": "Kanton Zürich – Tag 3 – Bäretswil",
+        "date": "2020-04-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/08dd5b89-5b5c-416a-90d6-bc32fb10b771"
+      }
+    ]
+  },
+  {
+    "name": "Schosshalde",
+    "lat": 46.9471249,
+    "lng": 7.4741597,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 5 – Schosshalde",
+        "date": "2020-08-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6b3b9a06-0e66-4ecf-8897-e0462b4d8377"
+      }
+    ]
+  },
+  {
+    "name": "Gryphenhübeli",
+    "lat": 46.9449993,
+    "lng": 7.455662,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 4 – Gryphenhübeli",
+        "date": "2020-08-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/76fb0cf3-f47f-473b-9771-e83c1406d8ad"
+      }
+    ]
+  },
+  {
+    "name": "Monbijou",
+    "lat": 46.9438088,
+    "lng": 7.435025,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 2 – Monbijou",
+        "date": "2020-08-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/132e9543-6d27-4f78-af7f-0bd595ac75ba"
+      }
+    ]
+  },
+  {
+    "name": "Breitfeld",
+    "lat": 46.9674166,
+    "lng": 7.4602027,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 1 – Breitfeld",
+        "date": "2020-08-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/61cc20ba-bae0-47fb-96a6-6901819d4738"
+      }
+    ]
+  },
+  {
+    "name": "Altstadt",
+    "lat": 46.9482888,
+    "lng": 7.4512729,
+    "episodes": [
+      {
+        "title": "Stadt St.Gallen – Tag 5 – Altstadt",
+        "date": "2020-08-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/631add0f-88b4-4592-a1e0-388b2f158686"
+      },
+      {
+        "title": "Stadt Bern – Tag 1 – Altstadt",
+        "date": "2019-02-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4dc4a2ba-77cd-4924-8076-649458f0d387"
+      },
+      {
+        "title": "Stadt Luzern – Tag 2 – Altstadt",
+        "date": "2019-01-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e0b5c30c-f610-49b6-bea0-aabeff0c3add"
+      }
+    ]
+  },
+  {
+    "name": "Winkeln",
+    "lat": 47.404145,
+    "lng": 9.3038645,
+    "episodes": [
+      {
+        "title": "Stadt St.Gallen – Tag 4 – Winkeln",
+        "date": "2020-08-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/32d199f7-a0eb-4331-8ecb-33c1adf2665e"
+      }
+    ]
+  },
+  {
+    "name": "Heiligkreuz",
+    "lat": 47.055644,
+    "lng": 9.4181433,
+    "episodes": [
+      {
+        "title": "Stadt St.Gallen – Tag 3 – Heiligkreuz",
+        "date": "2020-08-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/58fc3f83-d48d-4e6b-aea4-a10183ec1a07"
+      }
+    ]
+  },
+  {
+    "name": "St.Georgen",
+    "lat": 47.4165281,
+    "lng": 9.3845293,
+    "episodes": [
+      {
+        "title": "Stadt St.Gallen – Tag 2 – St.Georgen",
+        "date": "2020-08-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a2bd1be5-ffea-47c2-b2f1-6eecea918f04"
+      }
+    ]
+  },
+  {
+    "name": "St. Otmar",
+    "lat": 47.2289523,
+    "lng": 9.1914771,
+    "episodes": [
+      {
+        "title": "Stadt St.Gallen – Tag 1 – St. Otmar",
+        "date": "2020-08-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1a2ab23a-5f1a-44d6-9479-e7b90d8713f5"
+      }
+    ]
+  },
+  {
+    "name": "Burgäschi",
+    "lat": 47.1730577,
+    "lng": 7.6703116,
+    "episodes": [
+      {
+        "title": "Kanton Solothurn – Tag 5 – Burgäschi",
+        "date": "2020-08-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/836f44f9-fe98-410c-b324-709fdb2303cb"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 5 – Burgäschi",
+        "date": "2019-11-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cf12b3b3-420f-41ba-be84-5990deb0ea52"
+      }
+    ]
+  },
+  {
+    "name": "Feldbrunnen-St. Niklaus",
+    "lat": 47.2225295,
+    "lng": 7.5449687,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 4 – Feldbrunnen-St. Niklaus",
+        "date": "2020-08-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/082c1bb6-f049-499f-aa79-e59ba3419883"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 4 – Feldbrunnen-St. Niklaus",
+        "date": "2019-11-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9da59572-4f59-4508-a12a-3e74c2abd5cc"
+      }
+    ]
+  },
+  {
+    "name": "Egerkingen",
+    "lat": 47.3225009,
+    "lng": 7.7947889,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 3 – Egerkingen",
+        "date": "2020-08-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/94dd3c2a-9b74-47e0-910a-032f3de16500"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 3 – Egerkingen",
+        "date": "2019-11-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c469966-8df3-47f8-ae19-2188fe38d0e5"
+      }
+    ]
+  },
+  {
+    "name": "Erschwil",
+    "lat": 47.3735387,
+    "lng": 7.5416625,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 2 – Erschwil",
+        "date": "2020-08-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bc916ace-37a5-4ebd-8814-ff8a7b3649c2"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 2 – Erschwil",
+        "date": "2019-11-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/000d556c-fb2e-44eb-9724-85f29cae8480"
+      }
+    ]
+  },
+  {
+    "name": "Beinwil",
+    "lat": 47.2302283,
+    "lng": 8.3422897,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 1 – Beinwil",
+        "date": "2020-08-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7d393baa-e9ef-4ad8-98c5-173a8da65e0f"
+      },
+      {
+        "title": "Kanton Solothurn – Tag 1 – Beinwil",
+        "date": "2019-11-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a273ec44-7f19-43de-9267-cb45b79e3d59"
+      }
+    ]
+  },
+  {
+    "name": "Axalp",
+    "lat": 46.7198508,
+    "lng": 8.0366206,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 5 – Axalp",
+        "date": "2020-08-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0e08ee59-af7b-496c-9ec8-b8806f4839ea"
+      },
+      {
+        "title": "Berner Oberland – Tag 5 – Axalp",
+        "date": "2019-09-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/57c1966c-cdca-4394-a60e-2c9adec82e05"
+      }
+    ]
+  },
+  {
+    "name": "Spiez",
+    "lat": 46.6919473,
+    "lng": 7.6774655,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 4 – Spiez",
+        "date": "2020-08-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0b596a3e-611f-41d3-9b3f-21e7d6792bb9"
+      },
+      {
+        "title": "Berner Oberland – Tag 4 – Spiez",
+        "date": "2019-09-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/adea5f13-abfe-47ca-abdc-65242b788a77"
+      }
+    ]
+  },
+  {
+    "name": "Grindelwald",
+    "lat": 46.6242733,
+    "lng": 8.0367462,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 3 – Grindelwald",
+        "date": "2020-08-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/00d6f75d-ed11-4c38-bbf0-44711eba6308"
+      },
+      {
+        "title": "Berner Oberland – Tag 3 – Grindelwald",
+        "date": "2019-09-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/997fc8cf-296c-4691-9005-1587d488a3ec"
+      }
+    ]
+  },
+  {
+    "name": "Kiental",
+    "lat": 46.5836472,
+    "lng": 7.7269443,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 2 – Kiental",
+        "date": "2020-08-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4a1fd9ea-c69a-4204-91da-67fcf98cb8ae"
+      },
+      {
+        "title": "Berner Oberland – Tag 2 – Kiental",
+        "date": "2019-09-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e2cdeea9-45a8-4997-94c0-3e535ea63cdc"
+      }
+    ]
+  },
+  {
+    "name": "Lenzerheide",
+    "lat": 46.7280297,
+    "lng": 9.5584408,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 5 – Lenzerheide",
+        "date": "2020-07-31T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/52730bd4-295f-4e4b-8c8e-783157cd9a2f"
+      },
+      {
+        "title": "Kanton Graubünden – Tag 5 – Lenzerheide",
+        "date": "2019-09-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6ecc0060-9dd3-417f-a42d-3a4c19f03340"
+      }
+    ]
+  },
+  {
+    "name": "Tamins",
+    "lat": 46.8292948,
+    "lng": 9.4064966,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 4 – Tamins",
+        "date": "2020-07-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2a11b166-87e0-4d65-bc35-e4476037251f"
+      },
+      {
+        "title": "Kanton Graubünden – Tag 4 – Tamins",
+        "date": "2019-09-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1fa7eee3-4182-402c-95de-571c43dc84fe"
+      }
+    ]
+  },
+  {
+    "name": "Fideris",
+    "lat": 46.9146646,
+    "lng": 9.74113,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 3 – Fideris",
+        "date": "2020-07-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/820dc45e-3dce-490e-a51e-204569193a10"
+      },
+      {
+        "title": "Kanton Graubünden – Tag 3 – Fideris",
+        "date": "2019-09-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bfc00cdc-e96a-446c-84da-970886fb8510"
+      }
+    ]
+  },
+  {
+    "name": "Grüsch",
+    "lat": 46.9791866,
+    "lng": 9.6471438,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 2 – Grüsch",
+        "date": "2020-07-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fc20ede4-ec8b-41d9-ba60-e07def5ce5c4"
+      },
+      {
+        "title": "Kanton Graubünden – Tag 2 – Grüsch",
+        "date": "2019-09-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a3afd57b-0f54-4180-85b3-047a41acc601"
+      }
+    ]
+  },
+  {
+    "name": "Chur",
+    "lat": 46.854747,
+    "lng": 9.5264904,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 1 – Chur",
+        "date": "2020-07-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b472f4ee-f9d6-4342-84a4-d2d0896bcdcb"
+      },
+      {
+        "title": "Kanton Graubünden – Tag 1 – Chur",
+        "date": "2019-09-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c7a68ee0-d426-46ad-a0c1-3dc26fbd5e3a"
+      }
+    ]
+  },
+  {
+    "name": "Givisiez",
+    "lat": 46.8145053,
+    "lng": 7.1295693,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 5 – Givisiez",
+        "date": "2020-07-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/49686166-544d-49aa-ad43-66f827b18352"
+      },
+      {
+        "title": "Kanton Freiburg – Tag 5 – Givisiez",
+        "date": "2019-10-25T18:20:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c40a294a-be5b-4a66-9047-39264bf342c0"
+      }
+    ]
+  },
+  {
+    "name": "Fribourg",
+    "lat": 46.6789116,
+    "lng": 7.1027113,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 4 – Fribourg",
+        "date": "2020-07-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2095e172-8cb4-4567-bd45-037c4884e814"
+      },
+      {
+        "title": "Kanton Freiburg – Tag 4 – Fribourg",
+        "date": "2019-10-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/84b69703-dab9-47d9-86eb-7424d0540a1a"
+      }
+    ]
+  },
+  {
+    "name": "Murten",
+    "lat": 46.9288643,
+    "lng": 7.1163909,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 3 – Murten",
+        "date": "2020-07-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5f9c9d34-3b61-434d-b324-86f9f6b41c72"
+      },
+      {
+        "title": "Kanton Freiburg – Tag 3 – Murten",
+        "date": "2019-10-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a57a9924-36aa-490b-b670-71e52263b789"
+      }
+    ]
+  },
+  {
+    "name": "Ueberstorf",
+    "lat": 46.8650568,
+    "lng": 7.3114056,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 2 – Ueberstorf",
+        "date": "2020-07-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4184201e-986a-4ed6-8aa2-13bb4d786aea"
+      },
+      {
+        "title": "Kanton Freiburg – Tag 2 – Ueberstorf",
+        "date": "2019-10-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e21b3600-913e-472e-9928-0cb00cbd580b"
+      }
+    ]
+  },
+  {
+    "name": "Estavayer le lac",
+    "lat": 46.8496406,
+    "lng": 6.8477378,
+    "episodes": [
+      {
+        "title": "Freiburg – Tag 1 – Estavayer le lac",
+        "date": "2020-07-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8bc031d4-953a-4e93-8619-ce800a892e5f"
+      },
+      {
+        "title": "Kanton Freiburg – Tag 1 – Estavayer le lac",
+        "date": "2019-10-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/94ca20f7-1a68-4606-adab-3197b5af70bb"
+      }
+    ]
+  },
+  {
+    "name": "Frick",
+    "lat": 47.5075081,
+    "lng": 8.0203065,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 5 – Frick",
+        "date": "2020-07-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9e548926-0da9-48a0-82d2-9bec1d239181"
+      },
+      {
+        "title": "Kanton Aargau – Tag 5 – Frick",
+        "date": "2019-09-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c71b2dd6-8d56-490c-92eb-b52b2edd1591"
+      }
+    ]
+  },
+  {
+    "name": "Gebenstorf",
+    "lat": 47.4819508,
+    "lng": 8.2408818,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 4 – Gebenstorf",
+        "date": "2020-07-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4f21bb13-c672-4f7c-8dae-f65a8d1ae411"
+      },
+      {
+        "title": "Kanton Aargau – Tag 4 – Gebenstorf",
+        "date": "2019-09-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/98c82e6f-b0c0-4e03-ba2b-833022efe849"
+      }
+    ]
+  },
+  {
+    "name": "Herznach",
+    "lat": 47.4733714,
+    "lng": 8.0502339,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 3 – Herznach",
+        "date": "2020-07-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/60f44a3a-7e47-4f0b-8a39-85959af93449"
+      },
+      {
+        "title": "Kanton Aargau – Tag 3 – Herznach",
+        "date": "2019-09-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/80ff6905-e1c0-48fe-8bad-2ddd20f4e8ae"
+      }
+    ]
+  },
+  {
+    "name": "Rothrist",
+    "lat": 47.3029125,
+    "lng": 7.8826232,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 2 – Rothrist",
+        "date": "2020-07-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/63d99d0a-381e-491d-9ace-ec8402921f60"
+      },
+      {
+        "title": "Kanton Aargau – Tag 2 – Rothrist",
+        "date": "2019-09-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5b472b2c-583e-4312-9488-a05c16267274"
+      }
+    ]
+  },
+  {
+    "name": "Lenzburg",
+    "lat": 47.3873136,
+    "lng": 8.1821873,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 1 – Lenzburg",
+        "date": "2020-07-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3bc8b321-467c-4c29-956f-bd08e68f7fa7"
+      },
+      {
+        "title": "Kanton Aargau – Tag 1 – Lenzburg",
+        "date": "2019-09-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9a54c00a-a3b9-48cd-9719-3a58ba8a54a1"
+      }
+    ]
+  },
+  {
+    "name": "Seefeld (Kreis 8)",
+    "lat": 47.36561,
+    "lng": 8.54934,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 5 – Seefeld (Kreis 8)",
+        "date": "2020-07-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1948317c-7e90-43a7-9ffe-273523c8f45a"
+      },
+      {
+        "title": "Stadt Zürich – Tag 5 – Seefeld (Kreis 8)",
+        "date": "2020-03-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bfeea575-c91d-40f0-9a5c-1640952567cf"
+      }
+    ]
+  },
+  {
+    "name": "Altstadt (Kreis 1)",
+    "lat": 47.3680179,
+    "lng": 8.5394313,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 4 – Altstadt (Kreis 1)",
+        "date": "2020-07-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f195b71c-c08f-4e9c-9275-bf532db5d877"
+      },
+      {
+        "title": "Stadt Zürich – Tag 4 – Altstadt (Kreis 1)",
+        "date": "2020-03-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/240d478f-2ed0-46f6-9c3b-a18fffd391fb"
+      }
+    ]
+  },
+  {
+    "name": "Aussersihl (Kreis 4)",
+    "lat": 47.3740349,
+    "lng": 8.5203898,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 3 – Aussersihl (Kreis 4)",
+        "date": "2020-07-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7a02715f-8027-4ab1-b07f-78a924e63496"
+      },
+      {
+        "title": "Stadt Zürich – Tag 3 – Aussersihl (Kreis 4)",
+        "date": "2020-03-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4c5f21a9-8b83-42bb-871a-695864184d03"
+      }
+    ]
+  },
+  {
+    "name": "Seebach (Kreis 11)",
+    "lat": 47.4129591,
+    "lng": 8.5471082,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 2 – Seebach (Kreis 11)",
+        "date": "2020-07-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/04a5083e-8edf-4d6f-a568-0fd6a1e63aad"
+      },
+      {
+        "title": "Stadt Zürich – Tag 2 – Seebach (Kreis 11)",
+        "date": "2020-03-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b7bd5d15-099d-496c-a149-88ba45ea41d6"
+      }
+    ]
+  },
+  {
+    "name": "Altstetten (Kreis 9)",
+    "lat": 47.3977752,
+    "lng": 8.4883246,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 1 – Altstetten (Kreis 9)",
+        "date": "2020-07-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7883940c-7cfb-42c6-af72-e1c2bca7c4b2"
+      },
+      {
+        "title": "Stadt Zürich – Tag 1 – Altstetten (Kreis 9)",
+        "date": "2020-03-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4856cd39-4d51-45d8-9c2b-c9e019979646"
+      }
+    ]
+  },
+  {
+    "name": "Näfels",
+    "lat": 47.0997753,
+    "lng": 9.0630051,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 5 – Näfels",
+        "date": "2020-07-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8dc8d4bf-f32c-446e-85d7-b969b438e3f5"
+      },
+      {
+        "title": "Kanton Glarus – Tag 5 – Näfels",
+        "date": "2019-08-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0b507dec-369c-4fd7-ab0a-ba981bc81564"
+      }
+    ]
+  },
+  {
+    "name": "Elm",
+    "lat": 46.9188827,
+    "lng": 9.1718971,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 4 – Elm",
+        "date": "2020-07-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6fb67981-c89b-40f5-8e99-239f29e1b814"
+      },
+      {
+        "title": "Kanton Glarus – Tag 4 – Elm",
+        "date": "2019-08-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3f9761a3-99a5-4bc0-8f43-5e1d91064e4a"
+      }
+    ]
+  },
+  {
+    "name": "Mollis",
+    "lat": 47.0933604,
+    "lng": 9.0744112,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 3 – Mollis",
+        "date": "2020-07-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7b22929c-4fb6-493f-9501-8262d6f2e898"
+      },
+      {
+        "title": "Kanton Glarus – Tag 3 – Mollis",
+        "date": "2019-08-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/87e40a87-4ff4-48ce-aff2-c1e273cf7867"
+      }
+    ]
+  },
+  {
+    "name": "Filzbach",
+    "lat": 47.1204474,
+    "lng": 9.1296451,
+    "episodes": [
+      {
+        "title": "Glarus – Tag 2 – Filzbach",
+        "date": "2020-06-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/21f887eb-89f9-4910-8153-dde2cf7a021d"
+      },
+      {
+        "title": "Kanton Glarus – Tag 2 – Filzbach",
+        "date": "2019-08-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/84c9777d-8982-4738-b428-f71a4c446fe3"
+      }
+    ]
+  },
+  {
+    "name": "Nottwil",
+    "lat": 47.1378546,
+    "lng": 8.1318599,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 5 – Nottwil",
+        "date": "2020-06-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3ed214fe-7a95-4577-b29b-cbbe3e9ddcc0"
+      }
+    ]
+  },
+  {
+    "name": "Hochdorf",
+    "lat": 47.1665361,
+    "lng": 8.2899709,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 4 – Hochdorf",
+        "date": "2020-06-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2eead5af-d10d-4de2-ab9c-25113d405f56"
+      }
+    ]
+  },
+  {
+    "name": "Dagmersellen",
+    "lat": 47.2135668,
+    "lng": 7.9901132,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 3 – Dagmersellen",
+        "date": "2020-06-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9444665c-8fbe-4676-a53d-09eefe8cfa7f"
+      }
+    ]
+  },
+  {
+    "name": "Sursee",
+    "lat": 47.1725301,
+    "lng": 8.1067781,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 2 – Sursee",
+        "date": "2020-06-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4c6bead3-3a1c-4f06-b045-1b3dbf98a2f6"
+      }
+    ]
+  },
+  {
+    "name": "Altbüron",
+    "lat": 47.1816,
+    "lng": 7.88263,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 1 – Altbüron",
+        "date": "2020-06-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/af8d4f8e-6a10-4e55-b7a1-bee365a8cbae"
+      }
+    ]
+  },
+  {
+    "name": "Goldau",
+    "lat": 47.051219,
+    "lng": 8.5507758,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 4 – Goldau",
+        "date": "2020-06-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/126e5c8e-19e2-46f6-ae7e-7d260c6f02e2"
+      }
+    ]
+  },
+  {
+    "name": "Sattel",
+    "lat": 47.0809852,
+    "lng": 8.6335265,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 3 – Sattel",
+        "date": "2020-06-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/883d9795-9aa2-4708-a3e7-430cc5668a4d"
+      }
+    ]
+  },
+  {
+    "name": "Schwyz",
+    "lat": 47.0571976,
+    "lng": 8.7222073,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 2 – Schwyz",
+        "date": "2020-06-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/93407646-5c6b-4192-9483-17d6be916a9a"
+      },
+      {
+        "title": "Schwyz – Tag 2 – Schwyz",
+        "date": "2020-06-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3e09a27f-a8f7-40f7-9732-f732a43fd7c1"
+      }
+    ]
+  },
+  {
+    "name": "Gersau",
+    "lat": 46.9923,
+    "lng": 8.5264727,
+    "episodes": [
+      {
+        "title": "Schwyz – Tag 1 – Gersau",
+        "date": "2020-06-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c49836be-b562-4f63-bb4b-dcbdf43983dd"
+      }
+    ]
+  },
+  {
+    "name": "Salenstein",
+    "lat": 47.6694793,
+    "lng": 9.05922,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 5 – Salenstein",
+        "date": "2020-06-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6f583a65-968e-40d2-9067-c2aeb6a9db02"
+      }
+    ]
+  },
+  {
+    "name": "Diessenhofen",
+    "lat": 47.6875317,
+    "lng": 8.7492673,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 4 – Diessenhofen",
+        "date": "2020-06-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/46531329-7280-46df-9c23-0598b409d20f"
+      }
+    ]
+  },
+  {
+    "name": "Münsterlingen",
+    "lat": 47.631287,
+    "lng": 9.2329998,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 3 – Münsterlingen",
+        "date": "2020-06-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f542b5d3-76c6-49e7-959b-da6053f9256c"
+      }
+    ]
+  },
+  {
+    "name": "Frauenfeld",
+    "lat": 47.5561915,
+    "lng": 8.8963347,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 2 – Frauenfeld",
+        "date": "2020-06-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/370870ae-efe7-444b-966b-3143f77cfd4d"
+      }
+    ]
+  },
+  {
+    "name": "Romanshorn",
+    "lat": 47.5654452,
+    "lng": 9.3776036,
+    "episodes": [
+      {
+        "title": "Thurgau – Tag 1 – Romanshorn",
+        "date": "2020-06-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ce469225-ca98-413b-bee8-ba1768682eac"
+      },
+      {
+        "title": "Kanton Thurgau – Tag 3 – Romanshorn",
+        "date": "2019-10-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4274d2b5-f3cb-4fe1-b44a-c1564512259b"
+      }
+    ]
+  },
+  {
+    "name": "Witterswil",
+    "lat": 47.4858554,
+    "lng": 7.5248795,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 4 – Witterswil",
+        "date": "2020-06-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d0418a29-fe96-4d7c-82a9-588bb7b3a2cf"
+      }
+    ]
+  },
+  {
+    "name": "Seewen",
+    "lat": 47.4354627,
+    "lng": 7.6582649,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 3 – Seewen",
+        "date": "2020-06-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2e22b67d-be3f-4f75-8892-d69c87a087e6"
+      }
+    ]
+  },
+  {
+    "name": "Olten",
+    "lat": 47.3496571,
+    "lng": 7.903787,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 2 – Olten",
+        "date": "2020-06-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0462f35a-df0a-4be0-b50a-e5460034130a"
+      }
+    ]
+  },
+  {
+    "name": "Rüttenen",
+    "lat": 47.2316224,
+    "lng": 7.5308446,
+    "episodes": [
+      {
+        "title": "Solothurn – Tag 1 – Rüttenen",
+        "date": "2020-06-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1a4e019c-09ca-40cc-ad1a-950c96addff4"
+      }
+    ]
+  },
+  {
+    "name": "Heimiswil",
+    "lat": 47.0625989,
+    "lng": 7.6572587,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 5 – Heimiswil",
+        "date": "2020-05-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/011745ac-10bb-43fc-9fca-6f65551089a0"
+      }
+    ]
+  },
+  {
+    "name": "Langnau i. E",
+    "lat": 46.9390655,
+    "lng": 7.7842512,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 4 – Langnau i. E",
+        "date": "2020-05-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/915f8910-6540-416a-aaec-497c5b796a82"
+      }
+    ]
+  },
+  {
+    "name": "Seeberg",
+    "lat": 47.154563,
+    "lng": 7.6625354,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 3 – Seeberg",
+        "date": "2020-05-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4d386070-6563-49c9-b68a-ab7af201531a"
+      }
+    ]
+  },
+  {
+    "name": "Wynau",
+    "lat": 47.2585983,
+    "lng": 7.8127574,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 2 – Wynau",
+        "date": "2020-05-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4b313f8c-7f17-4553-8a02-3bebecfe94e7"
+      }
+    ]
+  },
+  {
+    "name": "Lützelflüh",
+    "lat": 47.0093461,
+    "lng": 7.6886004,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 1 – Lützelflüh",
+        "date": "2020-05-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/926eff54-c260-4dfa-a0f9-066ef9fdd11a"
+      }
+    ]
+  },
+  {
+    "name": "Wolfenschiessen",
+    "lat": 46.9080603,
+    "lng": 8.3954757,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 5 – Wolfenschiessen",
+        "date": "2020-05-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c6385fa-5ac8-47ec-8bcd-f6ae2d446bfe"
+      }
+    ]
+  },
+  {
+    "name": "Ennetmoos",
+    "lat": 46.9569495,
+    "lng": 8.3374027,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 4 – Ennetmoos",
+        "date": "2020-05-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/91fa1ac1-286e-4829-9739-ea20b0e6a97c"
+      }
+    ]
+  },
+  {
+    "name": "Stans",
+    "lat": 46.9570611,
+    "lng": 8.3661026,
+    "episodes": [
+      {
+        "title": "Nidwalden – Tag 1 – Stans",
+        "date": "2020-05-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e579ea01-31bf-4e4b-acb9-f587697f9aa7"
+      }
+    ]
+  },
+  {
+    "name": "Rüschegg",
+    "lat": 46.7712929,
+    "lng": 7.4036704,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 5 – Rüschegg",
+        "date": "2020-05-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d8e61bc7-962e-494d-86fd-52c6aa6875d5"
+      }
+    ]
+  },
+  {
+    "name": "Schwarzenburg",
+    "lat": 46.8179164,
+    "lng": 7.3411883,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 4 – Schwarzenburg",
+        "date": "2020-04-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9a646d70-30ca-441c-9f35-2133cd4627a0"
+      }
+    ]
+  },
+  {
+    "name": "Münsingen",
+    "lat": 46.8739775,
+    "lng": 7.5631943,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 3 – Münsingen",
+        "date": "2020-04-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c197d6a4-0bb0-4037-8509-573def494106"
+      }
+    ]
+  },
+  {
+    "name": "Säriswil",
+    "lat": 46.9911957,
+    "lng": 7.334561,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 2 – Säriswil",
+        "date": "2020-04-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a8c14a76-1655-417c-bab1-4a7e24799457"
+      }
+    ]
+  },
+  {
+    "name": "Laupen",
+    "lat": 46.9033021,
+    "lng": 7.239642,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 1 – Laupen",
+        "date": "2020-04-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/844af7d8-9d0c-4139-8bae-db7dc3d82b76"
+      }
+    ]
+  },
+  {
+    "name": "Sachseln",
+    "lat": 46.8688851,
+    "lng": 8.2392021,
+    "episodes": [
+      {
+        "title": "Obwalden – Tag 4 – Sachseln",
+        "date": "2020-04-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4501752f-84ba-45d8-8e29-21c21513d373"
+      }
+    ]
+  },
+  {
+    "name": "Sarnen",
+    "lat": 46.8956729,
+    "lng": 8.2461492,
+    "episodes": [
+      {
+        "title": "Obwalden – Tag 3 – Sarnen",
+        "date": "2020-04-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e51c5d4d-b46b-49ff-b8ae-b8f4eff373e3"
+      }
+    ]
+  },
+  {
+    "name": "Lungern",
+    "lat": 46.7857297,
+    "lng": 8.1607283,
+    "episodes": [
+      {
+        "title": "Obwalden – Tag 2 – Lungern",
+        "date": "2020-04-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e2d384f2-fb8c-4e68-974b-d34bfd442201"
+      },
+      {
+        "title": "Kanton Obwalden – Tag 5 – Lungern",
+        "date": "2019-05-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/07576fd0-64f9-4142-bbf3-0b189a8826cd"
+      }
+    ]
+  },
+  {
+    "name": "Engelberg",
+    "lat": 46.8223497,
+    "lng": 8.4043996,
+    "episodes": [
+      {
+        "title": "Obwalden – Tag 1 – Engelberg",
+        "date": "2020-04-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7422fbca-ed5b-4fbe-b8a5-ad99ff3d04f1"
+      }
+    ]
+  },
+  {
+    "name": "Bad Ragaz",
+    "lat": 47.0025282,
+    "lng": 9.5016438,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 4 – Bad Ragaz",
+        "date": "2020-04-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cce02c6d-5db9-4342-bc03-7bbb7090c2f7"
+      }
+    ]
+  },
+  {
+    "name": "Walenstadt",
+    "lat": 47.1229016,
+    "lng": 9.3140113,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 3 – Walenstadt",
+        "date": "2020-04-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/342889b1-3eb1-4291-b16d-2ae409188ada"
+      }
+    ]
+  },
+  {
+    "name": "Lichtensteig",
+    "lat": 47.3231436,
+    "lng": 9.0874862,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 2 – Lichtensteig",
+        "date": "2020-04-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e46d14d2-95c6-4e36-bc06-74ed453ba8e2"
+      }
+    ]
+  },
+  {
+    "name": "Mosnang",
+    "lat": 47.3621638,
+    "lng": 9.0400516,
+    "episodes": [
+      {
+        "title": "St. Gallen – Tag 1 – Mosnang",
+        "date": "2020-04-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fd22f736-d021-40fd-8c8d-474472df6322"
+      }
+    ]
+  },
+  {
+    "name": "Egg",
+    "lat": 47.2990667,
+    "lng": 8.6884584,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 4 – Egg",
+        "date": "2020-04-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/59b50408-137d-4b90-8459-c634f540c0a5"
+      }
+    ]
+  },
+  {
+    "name": "Aeugstertal",
+    "lat": 47.2842232,
+    "lng": 8.4872912,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 2 – Aeugstertal",
+        "date": "2020-04-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/478f308f-1741-4dd4-81bb-53f2e4304ba2"
+      }
+    ]
+  },
+  {
+    "name": "Mettmenstetten",
+    "lat": 47.243488,
+    "lng": 8.4636702,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 1 – Mettmenstetten",
+        "date": "2020-04-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8b0cc71e-f5b5-423d-959c-d4b0e450a8ac"
+      }
+    ]
+  },
+  {
+    "name": "Surava",
+    "lat": 46.6654866,
+    "lng": 9.6125514,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 5 – Surava",
+        "date": "2020-04-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/206ad1f3-6541-4035-835e-6804f23b2d78"
+      }
+    ]
+  },
+  {
+    "name": "Flims",
+    "lat": 46.8332439,
+    "lng": 9.2834557,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 4 – Flims",
+        "date": "2020-04-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/88c83c56-b488-4221-b0e0-70aad25751c9"
+      }
+    ]
+  },
+  {
+    "name": "Mutten",
+    "lat": 46.6781362,
+    "lng": 9.500036,
+    "episodes": [
+      {
+        "title": "Graubünden – Tag 3 – Mutten",
+        "date": "2020-04-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b76f820c-4eda-4f40-a914-e1a461f7822f"
+      }
+    ]
+  },
+  {
+    "name": "Bleienbach",
+    "lat": 47.1856551,
+    "lng": 7.7561202,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 5 – Bleienbach",
+        "date": "2020-03-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b82759aa-60d6-4761-a2eb-3626b05a2f94"
+      }
+    ]
+  },
+  {
+    "name": "Rohrbach",
+    "lat": 47.1356989,
+    "lng": 7.815146,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 4 – Rohrbach",
+        "date": "2020-03-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ed19e9f9-c7d7-467c-9131-3c3163f611d2"
+      }
+    ]
+  },
+  {
+    "name": "Roggwil",
+    "lat": 47.241147,
+    "lng": 7.8230774,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 3 – Roggwil",
+        "date": "2020-03-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/251cd48e-c883-4c74-b7ce-32391b6876f2"
+      }
+    ]
+  },
+  {
+    "name": "Wangen an der Aare",
+    "lat": 47.2353036,
+    "lng": 7.65517,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 2 – Wangen an der Aare",
+        "date": "2020-03-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8f6e3264-5804-44e0-8d1e-b8df5e53d9d6"
+      }
+    ]
+  },
+  {
+    "name": "Sumiswald",
+    "lat": 47.0285646,
+    "lng": 7.7449828,
+    "episodes": [
+      {
+        "title": "Emmental Oberaargau – Tag 1 – Sumiswald",
+        "date": "2020-03-02T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1bc0cfaf-293b-445e-9b18-3b990aea8302"
+      }
+    ]
+  },
+  {
+    "name": "Haslen",
+    "lat": 46.9802613,
+    "lng": 9.0562007,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 5 – Haslen",
+        "date": "2020-02-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c24f1995-cced-4332-a735-c808fefc8c71"
+      }
+    ]
+  },
+  {
+    "name": "Waldstatt",
+    "lat": 47.3563362,
+    "lng": 9.2838414,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 4 – Waldstatt",
+        "date": "2020-02-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/20cae3e7-d975-445d-a57a-cb8dad34bcb9"
+      }
+    ]
+  },
+  {
+    "name": "Schwellbrunn",
+    "lat": 47.352345,
+    "lng": 9.2491335,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 3 – Schwellbrunn",
+        "date": "2020-02-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bb212c26-113a-49e3-9e76-ab96ff84c872"
+      }
+    ]
+  },
+  {
+    "name": "Eggerstanden",
+    "lat": 47.3324495,
+    "lng": 9.464986,
+    "episodes": [
+      {
+        "title": "Appenzell – Tag 1 – Eggerstanden",
+        "date": "2020-02-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/74006335-c20e-4467-b54c-751afc16be46"
+      }
+    ]
+  },
+  {
+    "name": "Santa Maria im Münstertal",
+    "lat": 46.60127,
+    "lng": 10.4232771,
+    "episodes": [
+      {
+        "title": "Unterengadin – Tag 5 – Santa Maria im Münstertal",
+        "date": "2020-02-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6bf7551b-7b50-4f33-adbc-37a7696951e1"
+      }
+    ]
+  },
+  {
+    "name": "Scuol",
+    "lat": 46.7976371,
+    "lng": 10.2996234,
+    "episodes": [
+      {
+        "title": "Unterengadin – Tag 4 – Scuol",
+        "date": "2020-02-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/653b012d-ce98-4295-a250-1c63d7127415"
+      }
+    ]
+  },
+  {
+    "name": "Vnà",
+    "lat": 46.8433646,
+    "lng": 10.3633192,
+    "episodes": [
+      {
+        "title": "Unterengadin – Tag 3 – Vnà",
+        "date": "2020-02-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9b9adb05-8e28-4137-bf2f-47024633e95f"
+      }
+    ]
+  },
+  {
+    "name": "Ardez",
+    "lat": 46.7745373,
+    "lng": 10.2012095,
+    "episodes": [
+      {
+        "title": "Unterengadin – Tag 2 – Ardez",
+        "date": "2020-02-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f7ccd37f-2d23-4726-adbd-1cb02738b4b5"
+      }
+    ]
+  },
+  {
+    "name": "Zernez",
+    "lat": 46.6979839,
+    "lng": 10.0943311,
+    "episodes": [
+      {
+        "title": "Unterengadin – Tag 1 – Zernez",
+        "date": "2020-02-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e91cc716-1100-4a10-83d2-98c3f09cfdd1"
+      }
+    ]
+  },
+  {
+    "name": "Töss",
+    "lat": 47.4547376,
+    "lng": 8.774664,
+    "episodes": [
+      {
+        "title": "Winterthur – Tag 5 – Töss",
+        "date": "2020-02-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/44273c03-6ea1-4db0-af4d-b9c314030672"
+      }
+    ]
+  },
+  {
+    "name": "Veltheim",
+    "lat": 47.437709,
+    "lng": 8.1461059,
+    "episodes": [
+      {
+        "title": "Winterthur – Tag 4 – Veltheim",
+        "date": "2020-02-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6d0796de-e871-4463-a1e1-6deb71ee9ca0"
+      }
+    ]
+  },
+  {
+    "name": "Wülflingen",
+    "lat": 47.510687,
+    "lng": 8.6941608,
+    "episodes": [
+      {
+        "title": "Winterthur – Tag 3 – Wülflingen",
+        "date": "2020-02-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2a813979-f5cb-4159-aaaa-1b3143486b34"
+      }
+    ]
+  },
+  {
+    "name": "Oberwinterthur",
+    "lat": 47.5078613,
+    "lng": 8.7547606,
+    "episodes": [
+      {
+        "title": "Winterthur – Tag 2 – Oberwinterthur",
+        "date": "2020-02-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f3da7ae9-9290-417f-b62a-64b5626c5c50"
+      }
+    ]
+  },
+  {
+    "name": "Stadt Winterthur",
+    "lat": 47.5117128,
+    "lng": 8.6857211,
+    "episodes": [
+      {
+        "title": "Winterthur – Tag 1 – Stadt Winterthur",
+        "date": "2020-02-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5fa9dafc-abf5-49f2-97eb-20505722f541"
+      }
+    ]
+  },
+  {
+    "name": "Menzingen",
+    "lat": 47.178291,
+    "lng": 8.5899339,
+    "episodes": [
+      {
+        "title": "Zug – Tag 5 – Menzingen",
+        "date": "2020-02-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cb65a976-ddd4-48f0-ab03-e2303bfe588b"
+      },
+      {
+        "title": "Kanton Zug – Tag 2 – Menzingen",
+        "date": "2019-10-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/97a84366-79c9-4b1b-bb0a-98d1742a0be0"
+      }
+    ]
+  },
+  {
+    "name": "Stadt Zug",
+    "lat": 47.1803416,
+    "lng": 8.5205018,
+    "episodes": [
+      {
+        "title": "Zug – Tag 4 – Stadt Zug",
+        "date": "2020-02-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e871e3a8-135d-4afb-acc5-d13d32b91e64"
+      }
+    ]
+  },
+  {
+    "name": "Baar",
+    "lat": 47.1951976,
+    "lng": 8.5253985,
+    "episodes": [
+      {
+        "title": "Zug – Tag 3 – Baar",
+        "date": "2020-02-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/45ef2d2b-af97-4cf6-b1e1-0c415028cb1b"
+      },
+      {
+        "title": "Kanton Zug – Tag 3 – Baar",
+        "date": "2019-10-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/dfa80b23-27f1-4201-8b91-82949e8d5902"
+      }
+    ]
+  },
+  {
+    "name": "Walchwil",
+    "lat": 47.1005277,
+    "lng": 8.5147778,
+    "episodes": [
+      {
+        "title": "Zug – Tag 2 – Walchwil",
+        "date": "2020-02-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c63a5624-8649-4e70-8d5f-094535b2fc98"
+      }
+    ]
+  },
+  {
+    "name": "Entlebuch",
+    "lat": 46.9922358,
+    "lng": 8.0645622,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 5 – Entlebuch",
+        "date": "2020-01-31T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b9ba6f04-0e03-4731-8332-57c1b9ecf9f0"
+      }
+    ]
+  },
+  {
+    "name": "Alberswil",
+    "lat": 47.1506183,
+    "lng": 8.0013407,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 4 – Alberswil",
+        "date": "2020-01-30T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ac0baba0-5531-4362-b82e-b7bb4a61d175"
+      }
+    ]
+  },
+  {
+    "name": "Altishofen",
+    "lat": 47.200914,
+    "lng": 7.961177,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 3 – Altishofen",
+        "date": "2020-01-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/080a0e5c-4852-4212-8e48-8499bade05ae"
+      }
+    ]
+  },
+  {
+    "name": "Wauwil",
+    "lat": 47.184353,
+    "lng": 8.026173,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 2 – Wauwil",
+        "date": "2020-01-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8aa88043-a51b-4d46-a854-dba875d473ba"
+      }
+    ]
+  },
+  {
+    "name": "Hergiswil bei Willisau",
+    "lat": 47.0844337,
+    "lng": 7.9575516,
+    "episodes": [
+      {
+        "title": "Luzern – Tag 1 – Hergiswil bei Willisau",
+        "date": "2020-01-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a8f7ca7e-2a1f-4be8-a176-945264a03eb7"
+      }
+    ]
+  },
+  {
+    "name": "Finsterhennen",
+    "lat": 47.0232169,
+    "lng": 7.1808763,
+    "episodes": [
+      {
+        "title": "Berner Seeland  – Tag 5 – Finsterhennen",
+        "date": "2020-01-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/01be0881-c54e-42e3-a732-c6d44511b6d6"
+      }
+    ]
+  },
+  {
+    "name": "Ins",
+    "lat": 47.0058984,
+    "lng": 7.1056472,
+    "episodes": [
+      {
+        "title": "Berner Seeland  – Tag 4 – Ins",
+        "date": "2020-01-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/69b925aa-d4f9-4175-812d-9bd56b668782"
+      }
+    ]
+  },
+  {
+    "name": "Hagneck",
+    "lat": 47.0569331,
+    "lng": 7.1870499,
+    "episodes": [
+      {
+        "title": "Berner Seeland  – Tag 3 – Hagneck",
+        "date": "2020-01-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/32dbacd1-8a51-4877-aba8-6506d225307e"
+      }
+    ]
+  },
+  {
+    "name": "Erlach",
+    "lat": 47.0433028,
+    "lng": 7.0975115,
+    "episodes": [
+      {
+        "title": "Berner Seeland – Tag 2 – Erlach",
+        "date": "2020-01-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f4cbad79-6e9e-4442-89e2-93edeb121e5d"
+      }
+    ]
+  },
+  {
+    "name": "Bargen",
+    "lat": 47.0383598,
+    "lng": 7.2630166,
+    "episodes": [
+      {
+        "title": "Berner Seeland  – Tag 1 – Bargen",
+        "date": "2020-01-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6e655952-2f94-448e-8498-8e4b3309f62c"
+      }
+    ]
+  },
+  {
+    "name": "Mörel-Filet",
+    "lat": 46.3494652,
+    "lng": 8.049276,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 5 – Mörel-Filet",
+        "date": "2020-01-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ecf1751f-2c5d-42e1-a4dd-452f63c4d17c"
+      }
+    ]
+  },
+  {
+    "name": "Zermatt",
+    "lat": 46.0212076,
+    "lng": 7.749254,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 4 – Zermatt",
+        "date": "2020-01-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/beca36f6-b4dc-41f8-896c-5da92c2108ad"
+      }
+    ]
+  },
+  {
+    "name": "Grächen",
+    "lat": 46.1960178,
+    "lng": 7.8421612,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 3 – Grächen",
+        "date": "2020-01-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/44946d8c-dbc4-4acf-ba4c-9a42229aca23"
+      }
+    ]
+  },
+  {
+    "name": "Visperterminen",
+    "lat": 46.2589888,
+    "lng": 7.9030118,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 2 – Visperterminen",
+        "date": "2020-01-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5295a1e3-bee2-4478-bdf4-cd5697605aee"
+      }
+    ]
+  },
+  {
+    "name": "Varen",
+    "lat": 46.3186626,
+    "lng": 7.6078029,
+    "episodes": [
+      {
+        "title": "Wallis – Tag 1 – Varen",
+        "date": "2020-01-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8e6dd944-00d3-4f23-af47-bae2adca795c"
+      }
+    ]
+  },
+  {
+    "name": "Menziken",
+    "lat": 47.240878,
+    "lng": 8.187274,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 5 – Menziken",
+        "date": "2020-01-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5e670f33-f8ec-4640-81c3-09f639505b27"
+      }
+    ]
+  },
+  {
+    "name": "Seengen",
+    "lat": 47.3252906,
+    "lng": 8.2079184,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 4 – Seengen",
+        "date": "2020-01-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d65a28c4-807b-4f93-bab6-4335d42e5c71"
+      }
+    ]
+  },
+  {
+    "name": "Bremgarten",
+    "lat": 46.9767749,
+    "lng": 7.4374969,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 3 – Bremgarten",
+        "date": "2020-01-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/466031de-4202-405d-a93a-22da525c7281"
+      }
+    ]
+  },
+  {
+    "name": "Aarburg",
+    "lat": 47.3206417,
+    "lng": 7.8993599,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 2 – Aarburg",
+        "date": "2020-01-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d3d5a4dc-65bd-41bb-836a-70aaede9015b"
+      }
+    ]
+  },
+  {
+    "name": "Auw",
+    "lat": 47.2116635,
+    "lng": 8.364871,
+    "episodes": [
+      {
+        "title": "Aargau – Tag 1 – Auw",
+        "date": "2020-01-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fc16d0b9-373c-49d8-bcc3-84c6e27951d9"
+      }
+    ]
+  },
+  {
+    "name": "Silvaplana",
+    "lat": 46.4599334,
+    "lng": 9.7959165,
+    "episodes": [
+      {
+        "title": "Engadin – Tag 5 – Silvaplana",
+        "date": "2019-12-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/39a86e10-3143-4750-9348-40b2ed876307"
+      }
+    ]
+  },
+  {
+    "name": "Samedan",
+    "lat": 46.5332403,
+    "lng": 9.874586,
+    "episodes": [
+      {
+        "title": "Engadin – Tag 4 – Samedan",
+        "date": "2019-12-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/701ebbf3-cd4e-40e7-b3d2-a2438e08f836"
+      }
+    ]
+  },
+  {
+    "name": "St. Moritz",
+    "lat": 46.4978958,
+    "lng": 9.8392428,
+    "episodes": [
+      {
+        "title": "Engadin – Tag 3 – St. Moritz",
+        "date": "2019-12-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fbc6f234-9991-48d7-afc9-d17ad7775ace"
+      }
+    ]
+  },
+  {
+    "name": "Sils-Maria",
+    "lat": 46.4291565,
+    "lng": 9.7637877,
+    "episodes": [
+      {
+        "title": "Engadin – Tag 2 – Sils-Maria",
+        "date": "2019-12-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0a834d2a-9590-4e89-b19f-59a720ff3f90"
+      }
+    ]
+  },
+  {
+    "name": "Champfèr",
+    "lat": 46.4778216,
+    "lng": 9.8122415,
+    "episodes": [
+      {
+        "title": "Engadin – Tag 1 – Champfèr",
+        "date": "2019-12-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0eadba87-610d-4aa4-8f9a-8acfe338bc60"
+      }
+    ]
+  },
+  {
+    "name": "Lorraine",
+    "lat": 46.9600574,
+    "lng": 7.4451424,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 4 – Lorraine",
+        "date": "2019-12-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8acc6380-8dd3-4119-9d7f-cf4a28b589ed"
+      }
+    ]
+  },
+  {
+    "name": "Kirchenfeld",
+    "lat": 46.9403813,
+    "lng": 7.4499646,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 3 – Kirchenfeld",
+        "date": "2019-12-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7eaf83c7-70c6-40b2-a2ff-3ea9f1ae3457"
+      }
+    ]
+  },
+  {
+    "name": "Murifeld",
+    "lat": 46.9400733,
+    "lng": 7.4833955,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 1 – Murifeld",
+        "date": "2019-12-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/917966ea-ebcb-4345-9c98-fff039ddd5ff"
+      }
+    ]
+  },
+  {
+    "name": "Nesslau",
+    "lat": 47.2143628,
+    "lng": 9.187117,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 5 – Nesslau",
+        "date": "2019-12-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/db2a1af1-d667-4af4-9883-5a86de07a816"
+      }
+    ]
+  },
+  {
+    "name": "Weesen",
+    "lat": 47.1346737,
+    "lng": 9.0973561,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 4 – Weesen",
+        "date": "2019-12-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/dedc0688-da02-432c-971e-9604c930d0e4"
+      }
+    ]
+  },
+  {
+    "name": "Wattwil",
+    "lat": 47.2915343,
+    "lng": 9.0878138,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 3 – Wattwil",
+        "date": "2019-12-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d0f81da6-b9da-41a6-8574-efc4c3b934d1"
+      }
+    ]
+  },
+  {
+    "name": "Schmerikon",
+    "lat": 47.2256001,
+    "lng": 8.9415774,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 2 – Schmerikon",
+        "date": "2019-12-03T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aeb00b3b-82b3-4894-8c58-a0e1da2eb107"
+      }
+    ]
+  },
+  {
+    "name": "Buchs",
+    "lat": 47.1627634,
+    "lng": 9.4764086,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 1 – Buchs",
+        "date": "2019-12-02T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/589a4c1f-653a-4b91-a321-69e524e2906b"
+      }
+    ]
+  },
+  {
+    "name": "Dallenwil",
+    "lat": 46.933072,
+    "lng": 8.3911486,
+    "episodes": [
+      {
+        "title": "Kanton Nidwalden – Tag 4 – Dallenwil",
+        "date": "2019-11-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f7e51cf9-3162-43b5-a4cd-d274462c2084"
+      }
+    ]
+  },
+  {
+    "name": "Niederrickenbach",
+    "lat": 46.9277169,
+    "lng": 8.4276322,
+    "episodes": [
+      {
+        "title": "Kanton Nidwalden – Tag 2 – Niederrickenbach",
+        "date": "2019-11-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/19049109-48b8-4ca1-aa44-15b29ef82005"
+      }
+    ]
+  },
+  {
+    "name": "Gurten",
+    "lat": 46.9172914,
+    "lng": 7.4437737,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 5 – Gurten",
+        "date": "2019-11-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ee71baba-45e2-4ff0-bb87-2e6d1c3a27ea"
+      }
+    ]
+  },
+  {
+    "name": "Worb",
+    "lat": 46.9308618,
+    "lng": 7.5645522,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 4 – Worb",
+        "date": "2019-11-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2286ba12-edce-483f-9060-c7d626132681"
+      }
+    ]
+  },
+  {
+    "name": "Belp",
+    "lat": 46.88978,
+    "lng": 7.498388,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 3 – Belp",
+        "date": "2019-11-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9b10e470-8878-40f5-947a-869ac88cc415"
+      }
+    ]
+  },
+  {
+    "name": "Grosshöchstetten",
+    "lat": 46.9074667,
+    "lng": 7.6380928,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 2 – Grosshöchstetten",
+        "date": "2019-11-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aa82ea16-78c8-4325-a6be-227fc758061c"
+      }
+    ]
+  },
+  {
+    "name": "Münchenbuchsee",
+    "lat": 47.0215901,
+    "lng": 7.4505443,
+    "episodes": [
+      {
+        "title": "Berner Mittelland – Tag 1 – Münchenbuchsee",
+        "date": "2019-11-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a4f010a0-1a77-4c3a-9f73-48920ed6c2bd"
+      }
+    ]
+  },
+  {
+    "name": "Intragna",
+    "lat": 46.1775064,
+    "lng": 8.700411,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 5 – Intragna",
+        "date": "2019-11-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a31e55c4-f153-475a-b9a3-84c9ccdfe444"
+      }
+    ]
+  },
+  {
+    "name": "Giubiasco",
+    "lat": 46.1739158,
+    "lng": 9.0134077,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 4 – Giubiasco",
+        "date": "2019-11-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9b780d7c-63e2-4abf-96ee-3ed3cb24f1e0"
+      }
+    ]
+  },
+  {
+    "name": "Locarno",
+    "lat": 46.1695739,
+    "lng": 8.7954859,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 3 – Locarno",
+        "date": "2019-11-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8fd31747-1077-4294-9b20-b68c24359df0"
+      }
+    ]
+  },
+  {
+    "name": "Bignasco",
+    "lat": 46.3397342,
+    "lng": 8.6085558,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 2 – Bignasco",
+        "date": "2019-11-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/65d3d0e9-dbcb-4c28-b39c-5c33a46fd82a"
+      }
+    ]
+  },
+  {
+    "name": "Terre di Pedemonte",
+    "lat": 46.1914811,
+    "lng": 8.7238468,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 1 – Terre di Pedemonte",
+        "date": "2019-11-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/86e0f631-663e-40dd-b681-79a9d7e4c26e"
+      }
+    ]
+  },
+  {
+    "name": "Münster",
+    "lat": 47.2796142,
+    "lng": 7.3704192,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 5 – Münster",
+        "date": "2019-11-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0fd89da3-85ab-4b52-858a-f4057cb49f75"
+      }
+    ]
+  },
+  {
+    "name": "Visp",
+    "lat": 46.2913113,
+    "lng": 7.8811918,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 4 – Visp",
+        "date": "2019-10-31T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8666ad0d-7f18-418d-81dd-83352a52f77a"
+      }
+    ]
+  },
+  {
+    "name": "Brig-Glis",
+    "lat": 46.2887325,
+    "lng": 7.9753084,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 3 – Brig-Glis",
+        "date": "2019-10-30T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c32e8e6c-0ca5-4e57-b722-edebbd2fa0e7"
+      }
+    ]
+  },
+  {
+    "name": "Mund",
+    "lat": 46.315287,
+    "lng": 7.9411034,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 2 – Mund",
+        "date": "2019-10-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9797d1c1-3e97-4978-bb84-56b1409c30cc"
+      }
+    ]
+  },
+  {
+    "name": "Herbriggen",
+    "lat": 46.1370186,
+    "lng": 7.7925667,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 1 – Herbriggen",
+        "date": "2019-10-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/76dfc2bb-4ac0-448d-9625-09b37c065d17"
+      }
+    ]
+  },
+  {
+    "name": "Liestal",
+    "lat": 47.4839723,
+    "lng": 7.7347783,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 5 – Liestal",
+        "date": "2019-10-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ef5e2964-4ea5-475c-9cb6-f37dc3e19a6a"
+      }
+    ]
+  },
+  {
+    "name": "Bubendorf",
+    "lat": 47.4979359,
+    "lng": 7.0127433,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 4 – Bubendorf",
+        "date": "2019-10-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6b817393-100b-43d4-8745-9089e25de055"
+      }
+    ]
+  },
+  {
+    "name": "Pfeffingen",
+    "lat": 47.4579858,
+    "lng": 7.589006,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 3 – Pfeffingen",
+        "date": "2019-10-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/93663dcc-907b-4472-9838-a07301e579f4"
+      }
+    ]
+  },
+  {
+    "name": "Allschwil",
+    "lat": 47.5510799,
+    "lng": 7.5365611,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 2 – Allschwil",
+        "date": "2019-10-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ca780402-28f7-42ec-b1c3-c42611d55eb9"
+      }
+    ]
+  },
+  {
+    "name": "Zeglingen",
+    "lat": 47.4171143,
+    "lng": 7.9063676,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 1 – Zeglingen",
+        "date": "2019-10-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/74d44881-da93-4739-bdef-987b5c662832"
+      }
+    ]
+  },
+  {
+    "name": "Bischofszell",
+    "lat": 47.4937698,
+    "lng": 9.2409168,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 5 – Bischofszell",
+        "date": "2019-10-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/82235d8b-b266-45d3-85a2-20fe9b007ac4"
+      }
+    ]
+  },
+  {
+    "name": "Hauptwil",
+    "lat": 47.4798037,
+    "lng": 9.2513948,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 4 – Hauptwil",
+        "date": "2019-10-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0d1ec0c7-a241-4f45-93ea-c58aebf7e7c6"
+      }
+    ]
+  },
+  {
+    "name": "Warth-Weiningen",
+    "lat": 47.5874522,
+    "lng": 8.8881897,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 2 – Warth-Weiningen",
+        "date": "2019-10-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3e7eda29-bf61-40d8-8121-be8f3b165a7b"
+      }
+    ]
+  },
+  {
+    "name": "Homburg",
+    "lat": 47.6344325,
+    "lng": 9.0062342,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 1 – Homburg",
+        "date": "2019-10-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4903da51-f805-4487-a8bc-b85ddd8d2393"
+      }
+    ]
+  },
+  {
+    "name": "Unterägeri",
+    "lat": 47.1374124,
+    "lng": 8.584483,
+    "episodes": [
+      {
+        "title": "Kanton Zug – Tag 5 – Unterägeri",
+        "date": "2019-10-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e564926a-d2c5-45e0-9938-f17b884237c1"
+      }
+    ]
+  },
+  {
+    "name": "Steinhausen",
+    "lat": 47.1975084,
+    "lng": 8.4860144,
+    "episodes": [
+      {
+        "title": "Kanton Zug – Tag 4 – Steinhausen",
+        "date": "2019-10-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c188abe4-27fd-4194-a98a-87bd007dea32"
+      }
+    ]
+  },
+  {
+    "name": "Hünenberg",
+    "lat": 47.1751834,
+    "lng": 8.4259648,
+    "episodes": [
+      {
+        "title": "Kanton Zug – Tag 1 – Hünenberg",
+        "date": "2019-09-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/290fa4f0-0a40-4075-894a-51a1f330f196"
+      }
+    ]
+  },
+  {
+    "name": "Eglisau",
+    "lat": 47.5733207,
+    "lng": 8.5239827,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 5 – Eglisau",
+        "date": "2019-09-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/54cd669d-089e-489c-b733-b7c0c37ddf24"
+      }
+    ]
+  },
+  {
+    "name": "Meilen",
+    "lat": 47.270428,
+    "lng": 8.6412249,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 4 – Meilen",
+        "date": "2019-09-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d3d7a39b-c085-492f-acad-98f73e312928"
+      }
+    ]
+  },
+  {
+    "name": "Bauma",
+    "lat": 47.3677633,
+    "lng": 8.8792873,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 3 – Bauma",
+        "date": "2019-09-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/14002bec-9601-4384-beba-854f18a73a5c"
+      }
+    ]
+  },
+  {
+    "name": "Turbenthal",
+    "lat": 47.4368146,
+    "lng": 8.848521,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 2 – Turbenthal",
+        "date": "2019-09-03T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b76be09b-0735-4eb4-820a-cf8e5a1c5155"
+      }
+    ]
+  },
+  {
+    "name": "Dietikon",
+    "lat": 47.4050746,
+    "lng": 8.4030765,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 1 – Dietikon",
+        "date": "2019-09-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/89fd9648-13c2-42b2-81da-5132f6ee6b9d"
+      }
+    ]
+  },
+  {
+    "name": "Luthern",
+    "lat": 47.0589604,
+    "lng": 7.9169068,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 5 – Luthern",
+        "date": "2019-08-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0e19b2f6-157f-4de9-a038-b98e0452ccd1"
+      }
+    ]
+  },
+  {
+    "name": "Horw",
+    "lat": 47.0185008,
+    "lng": 8.3107797,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 4 – Horw",
+        "date": "2019-08-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7f262565-1819-4af1-b333-7ffe16dc9786"
+      }
+    ]
+  },
+  {
+    "name": "Grosswangen",
+    "lat": 47.1322635,
+    "lng": 8.0491183,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 3 – Grosswangen",
+        "date": "2019-08-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a66e3ab3-ec0a-4bb6-9c3c-aab8291ba330"
+      }
+    ]
+  },
+  {
+    "name": "Gelfingen",
+    "lat": 47.2144081,
+    "lng": 8.2661787,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 2 – Gelfingen",
+        "date": "2019-08-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/893bceea-83ca-423f-a521-340a67357590"
+      }
+    ]
+  },
+  {
+    "name": "Langnau bei Reiden",
+    "lat": 47.2318707,
+    "lng": 7.9620803,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 1 – Langnau bei Reiden",
+        "date": "2019-08-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/35742411-c793-47e0-837e-cda596d9e0b4"
+      }
+    ]
+  },
+  {
+    "name": "Heiden",
+    "lat": 47.4421715,
+    "lng": 9.532089,
+    "episodes": [
+      {
+        "title": "Appenzellerland – Tag 5 – Heiden",
+        "date": "2019-06-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a4f2ccbe-0bc5-4e6e-8105-412768ad60db"
+      }
+    ]
+  },
+  {
+    "name": "Urnäsch",
+    "lat": 47.3178621,
+    "lng": 9.2834506,
+    "episodes": [
+      {
+        "title": "Appenzellerland – Tag 3 – Urnäsch",
+        "date": "2019-06-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/20b4564c-5001-4151-8d70-97fe9b2f02f6"
+      }
+    ]
+  },
+  {
+    "name": "Appenzell",
+    "lat": 47.3299506,
+    "lng": 9.4099311,
+    "episodes": [
+      {
+        "title": "Appenzellerland – Tag 2 – Appenzell",
+        "date": "2019-06-25T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9c41b634-ebc7-490c-bda6-7acbb981672d"
+      }
+    ]
+  },
+  {
+    "name": "Herisau",
+    "lat": 47.38555,
+    "lng": 9.2787571,
+    "episodes": [
+      {
+        "title": "Appenzellerland – Tag 1 – Herisau",
+        "date": "2019-06-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/be165c6e-cfa7-4cb7-b480-81b72847e917"
+      }
+    ]
+  },
+  {
+    "name": "Andermatt",
+    "lat": 46.6340499,
+    "lng": 8.5948148,
+    "episodes": [
+      {
+        "title": "Kanton Uri – Tag 5 – Andermatt",
+        "date": "2019-06-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7f0877a3-379b-4301-8150-35b12f7d5904"
+      }
+    ]
+  },
+  {
+    "name": "Erstfeld",
+    "lat": 46.8215088,
+    "lng": 8.6499636,
+    "episodes": [
+      {
+        "title": "Kanton Uri – Tag 4 – Erstfeld",
+        "date": "2019-06-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f7d88dde-ea8f-40ed-9652-3b32f310822f"
+      }
+    ]
+  },
+  {
+    "name": "Altdorf",
+    "lat": 46.8820732,
+    "lng": 8.6413922,
+    "episodes": [
+      {
+        "title": "Kanton Uri – Tag 3 – Altdorf",
+        "date": "2019-06-19T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/aa2a5d01-3a7a-4fd3-8a3f-0e33a267482e"
+      }
+    ]
+  },
+  {
+    "name": "Göscheneralp",
+    "lat": 46.6493867,
+    "lng": 8.4999292,
+    "episodes": [
+      {
+        "title": "Kanton Uri – Tag 2 – Göscheneralp",
+        "date": "2019-06-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/952d4ec8-f47c-4259-9936-45f6d767d1b6"
+      }
+    ]
+  },
+  {
+    "name": "Breite",
+    "lat": 47.5518091,
+    "lng": 7.6178526,
+    "episodes": [
+      {
+        "title": "Kanton Basel-Stadt – Tag 3 – Breite",
+        "date": "2019-06-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1c90ec25-32cd-4301-ab94-14a7bafe48bc"
+      }
+    ]
+  },
+  {
+    "name": "Klybeck",
+    "lat": 47.5767978,
+    "lng": 7.5901493,
+    "episodes": [
+      {
+        "title": "Kanton Basel-Stadt – Tag 2 – Klybeck",
+        "date": "2019-06-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/903e7e2e-87e1-4f35-bf32-e10c6a329824"
+      }
+    ]
+  },
+  {
+    "name": "Kleinhüningen",
+    "lat": 47.583376,
+    "lng": 7.5975738,
+    "episodes": [
+      {
+        "title": "Kanton Basel-Stadt – Tag 1 – Kleinhüningen",
+        "date": "2019-06-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/53065df4-454d-4676-a189-5ba3ddfec78a"
+      }
+    ]
+  },
+  {
+    "name": "Grenchen",
+    "lat": 47.1911495,
+    "lng": 7.3967199,
+    "episodes": [
+      {
+        "title": "Kanton Solothurn – Tag 5 – Grenchen",
+        "date": "2019-06-07T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a4b5cbbe-f38a-4e08-9c34-c8a055d42dd5"
+      }
+    ]
+  },
+  {
+    "name": "Stadt Solothurn",
+    "lat": 47.2132844,
+    "lng": 7.5298328,
+    "episodes": [
+      {
+        "title": "Kanton Solothurn – Tag 3 – Stadt Solothurn",
+        "date": "2019-06-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e97cb30b-08c5-43ef-911f-296902b96985"
+      }
+    ]
+  },
+  {
+    "name": "Flüh",
+    "lat": 47.4850972,
+    "lng": 7.4978274,
+    "episodes": [
+      {
+        "title": "Kanton Solothurn – Tag 2 – Flüh",
+        "date": "2019-06-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/113d9401-db77-459d-ab1a-d611deabb999"
+      }
+    ]
+  },
+  {
+    "name": "Sool",
+    "lat": 47.000259,
+    "lng": 9.0855088,
+    "episodes": [
+      {
+        "title": "Kanton Glarus – Tag 5 – Sool",
+        "date": "2019-05-31T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/497f73ca-99ef-4644-a9a6-598e04b155f9"
+      }
+    ]
+  },
+  {
+    "name": "Linthal",
+    "lat": 46.918987,
+    "lng": 8.99714,
+    "episodes": [
+      {
+        "title": "Kanton Glarus – Tag 2 – Linthal",
+        "date": "2019-05-28T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fceda71f-158f-44b1-a579-6b0d36a14785"
+      }
+    ]
+  },
+  {
+    "name": "Braunwald",
+    "lat": 46.9392639,
+    "lng": 8.9984978,
+    "episodes": [
+      {
+        "title": "Kanton Glarus – Tag 1 – Braunwald",
+        "date": "2019-05-27T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0973ad4f-3396-46d9-9343-7120334cc5fc"
+      }
+    ]
+  },
+  {
+    "name": "Rothenburg",
+    "lat": 47.0940041,
+    "lng": 8.2724174,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 5 – Rothenburg",
+        "date": "2019-05-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b664e252-e420-4891-a2f4-a3d3e6111ce0"
+      }
+    ]
+  },
+  {
+    "name": "Willisau",
+    "lat": 47.1215184,
+    "lng": 7.99659,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 4 – Willisau",
+        "date": "2019-05-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d42b5047-c75c-48e3-a5fb-a9331fc4249c"
+      }
+    ]
+  },
+  {
+    "name": "Sempach",
+    "lat": 47.1353737,
+    "lng": 8.1920262,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 3 – Sempach",
+        "date": "2019-05-22T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c8070bbb-2dae-4a72-af65-83a12e906bdc"
+      }
+    ]
+  },
+  {
+    "name": "Triengen",
+    "lat": 47.2351967,
+    "lng": 8.0767478,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 2 – Triengen",
+        "date": "2019-05-21T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/790201e5-0d0a-4467-8d82-2c0e6c1c679c"
+      }
+    ]
+  },
+  {
+    "name": "Neudorf",
+    "lat": 47.1771229,
+    "lng": 8.2097504,
+    "episodes": [
+      {
+        "title": "Kanton Luzern – Tag 1 – Neudorf",
+        "date": "2019-05-20T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f1f71d0c-1e57-48f4-aebb-8435af091cb4"
+      }
+    ]
+  },
+  {
+    "name": "Hottwil",
+    "lat": 47.5474422,
+    "lng": 8.1623003,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 5 – Hottwil",
+        "date": "2019-05-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/677d1c7a-6433-4e1b-a63d-19dff3cf1eb6"
+      }
+    ]
+  },
+  {
+    "name": "Laufenburg",
+    "lat": 47.5604617,
+    "lng": 8.0601696,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 4 – Laufenburg",
+        "date": "2019-05-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/37fea3e9-aaf3-4598-b63f-4190e6efe40f"
+      },
+      {
+        "title": "Kanton Aargau – Tag 2 – Laufenburg",
+        "date": "2019-01-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/36fba87d-bff5-443a-bb98-7d8fc09bd9e3"
+      }
+    ]
+  },
+  {
+    "name": "Aarau",
+    "lat": 47.3927146,
+    "lng": 8.0444448,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 3 – Aarau",
+        "date": "2019-05-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4b1010f4-75db-4544-b5cd-a7265fc1c865"
+      }
+    ]
+  },
+  {
+    "name": "Ehrendingen",
+    "lat": 47.4948072,
+    "lng": 8.3418609,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 2 – Ehrendingen",
+        "date": "2019-05-14T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d83db045-72d8-4d48-861d-b6ed374b84ce"
+      }
+    ]
+  },
+  {
+    "name": "Beinwil am See",
+    "lat": 47.2664506,
+    "lng": 8.2027093,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 1 – Beinwil am See",
+        "date": "2019-05-13T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e561093e-3ec0-4b4a-a7e2-e381bba02db8"
+      }
+    ]
+  },
+  {
+    "name": "Stadt St. Gallen",
+    "lat": 47.3768571,
+    "lng": 9.5375646,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 5 – Stadt St. Gallen",
+        "date": "2019-05-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4d140048-3850-4685-b6b9-639ae2a2204b"
+      }
+    ]
+  },
+  {
+    "name": "Mels",
+    "lat": 47.0467333,
+    "lng": 9.4192932,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 4 – Mels",
+        "date": "2019-05-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/91f498f4-e17c-4541-a057-582fc438a57e"
+      }
+    ]
+  },
+  {
+    "name": "Oberriet",
+    "lat": 47.320756,
+    "lng": 9.5675673,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 3 – Oberriet",
+        "date": "2019-05-08T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/a6c4f11c-8c13-48ec-85da-187f77d3901c"
+      }
+    ]
+  },
+  {
+    "name": "Wil",
+    "lat": 47.465266,
+    "lng": 9.0415478,
+    "episodes": [
+      {
+        "title": "Kanton St. Gallen – Tag 1 – Wil",
+        "date": "2019-05-06T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/76b64fb3-d3f7-4579-99dc-9af6aae4852d"
+      }
+    ]
+  },
+  {
+    "name": "Giswil",
+    "lat": 46.838175,
+    "lng": 8.1880027,
+    "episodes": [
+      {
+        "title": "Kanton Obwalden – Tag 4 – Giswil",
+        "date": "2019-05-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6b433346-a84a-4507-b510-87548c04feb3"
+      }
+    ]
+  },
+  {
+    "name": "Kägiswil",
+    "lat": 46.9225648,
+    "lng": 8.2612626,
+    "episodes": [
+      {
+        "title": "Kanton Obwalden – Tag 3 – Kägiswil",
+        "date": "2019-05-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c451abf6-3ab7-43fd-9c84-9c445e3d019c"
+      }
+    ]
+  },
+  {
+    "name": "Kerns",
+    "lat": 46.9008111,
+    "lng": 8.2753475,
+    "episodes": [
+      {
+        "title": "Kanton Obwalden – Tag 2 – Kerns",
+        "date": "2019-04-30T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b38b805e-098b-4a1f-a8fa-af45bae26c47"
+      }
+    ]
+  },
+  {
+    "name": "Alpnach",
+    "lat": 46.9411661,
+    "lng": 8.2736829,
+    "episodes": [
+      {
+        "title": "Kanton Obwalden – Tag 1 – Alpnach",
+        "date": "2019-04-29T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b7d9ccbe-d971-4ace-8d15-f3b2f98b49ea"
+      }
+    ]
+  },
+  {
+    "name": "Losone",
+    "lat": 46.1679841,
+    "lng": 8.7633619,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 4 – Losone",
+        "date": "2019-04-26T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8fe3a0ab-8a20-4b04-bbb5-bb3f3aeb06e5"
+      }
+    ]
+  },
+  {
+    "name": "Maggia",
+    "lat": 46.3596308,
+    "lng": 8.648602,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 2 – Maggia",
+        "date": "2019-04-24T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/67af0f45-5604-4067-89be-72651b4bad7d"
+      }
+    ]
+  },
+  {
+    "name": "Ascona",
+    "lat": 46.1554222,
+    "lng": 8.7707865,
+    "episodes": [
+      {
+        "title": "Kanton Tessin – Tag 1 – Ascona",
+        "date": "2019-04-23T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/253a2439-78ae-444f-b371-5d62a4b7eecf"
+      }
+    ]
+  },
+  {
+    "name": "Rigi Scheidegg",
+    "lat": 47.0274441,
+    "lng": 8.5195668,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 4 – Rigi Scheidegg",
+        "date": "2019-04-18T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ceb374d0-28ac-4328-aba5-da5cad144314"
+      }
+    ]
+  },
+  {
+    "name": "Einsiedeln",
+    "lat": 47.1286095,
+    "lng": 8.7500299,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 3 – Einsiedeln",
+        "date": "2019-04-17T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7f62119f-c91d-47ac-b026-b9e284e57495"
+      }
+    ]
+  },
+  {
+    "name": "Immensee",
+    "lat": 47.0968171,
+    "lng": 8.4626759,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 2 – Immensee",
+        "date": "2019-04-16T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/fa03d412-8c37-476f-b04f-34ac38575c50"
+      }
+    ]
+  },
+  {
+    "name": "Muotathal",
+    "lat": 46.974668,
+    "lng": 8.7658029,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 1 – Muotathal",
+        "date": "2019-04-15T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9208e641-08b8-45fd-8152-c45ac99cddfd"
+      }
+    ]
+  },
+  {
+    "name": "Hirslanden",
+    "lat": 47.3629482,
+    "lng": 8.5642692,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 4 – Hirslanden",
+        "date": "2019-04-12T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d7661f90-cf9e-43d4-a480-c4def56f939d"
+      }
+    ]
+  },
+  {
+    "name": "Unterstrass",
+    "lat": 47.3914474,
+    "lng": 8.5395724,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 3 – Unterstrass",
+        "date": "2019-04-11T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e0e64031-e64b-41b6-af01-e52fd4e43dac"
+      }
+    ]
+  },
+  {
+    "name": "Schwamendingen",
+    "lat": 47.4049996,
+    "lng": 8.5724143,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 2 – Schwamendingen",
+        "date": "2019-04-10T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d2f6f07d-b5bc-4448-95e7-d3ef4e69d431"
+      }
+    ]
+  },
+  {
+    "name": "Wollishofen",
+    "lat": 47.3424271,
+    "lng": 8.5307085,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 1 – Wollishofen",
+        "date": "2019-04-09T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/10560aec-9d24-447f-ba85-344f5d613f27"
+      }
+    ]
+  },
+  {
+    "name": "Brienz",
+    "lat": 46.7560001,
+    "lng": 8.0303006,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 5 – Brienz",
+        "date": "2019-04-05T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/274daad0-f3ad-40a0-a76e-3a8c8a0719fc"
+      }
+    ]
+  },
+  {
+    "name": "Matten",
+    "lat": 46.6798821,
+    "lng": 7.8686253,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 4 – Matten",
+        "date": "2019-04-04T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ca869517-60eb-4b07-aae6-5bfb7ec47e14"
+      }
+    ]
+  },
+  {
+    "name": "Unterlangenegg",
+    "lat": 46.7968658,
+    "lng": 7.699143,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 2 – Unterlangenegg",
+        "date": "2019-04-02T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e5ac6c33-5077-4051-823f-6fe6fd293411"
+      }
+    ]
+  },
+  {
+    "name": "Sigriswil",
+    "lat": 46.7164293,
+    "lng": 7.7160699,
+    "episodes": [
+      {
+        "title": "Berner Oberland – Tag 1 – Sigriswil",
+        "date": "2019-04-01T18:15:00+02:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f6788654-1ce4-453c-be5b-e0d6181ac91f"
+      }
+    ]
+  },
+  {
+    "name": "Davos",
+    "lat": 46.796198,
+    "lng": 9.8236892,
+    "episodes": [
+      {
+        "title": "Kanton Graubünden – Tag 5 – Davos",
+        "date": "2019-03-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8e8bc404-d342-430c-9988-3e626c6469da"
+      }
+    ]
+  },
+  {
+    "name": "Bergün/Bravuogn",
+    "lat": 46.6290381,
+    "lng": 9.7452826,
+    "episodes": [
+      {
+        "title": "Kanton Graubünden – Tag 4 – Bergün/Bravuogn",
+        "date": "2019-03-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/c3f39aee-2ee8-4f58-91f1-46302bf1c048"
+      }
+    ]
+  },
+  {
+    "name": "Churwalden",
+    "lat": 46.7784526,
+    "lng": 9.5429675,
+    "episodes": [
+      {
+        "title": "Kanton Graubünden – Tag 3 – Churwalden",
+        "date": "2019-03-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5f53568c-cf72-4d76-8064-c710c4415042"
+      }
+    ]
+  },
+  {
+    "name": "Tschiertschen",
+    "lat": 46.8173936,
+    "lng": 9.6066499,
+    "episodes": [
+      {
+        "title": "Kanton Graubünden – Tag 2 – Tschiertschen",
+        "date": "2019-03-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/d9308dd7-ff35-41c1-b69e-76260492eeb5"
+      }
+    ]
+  },
+  {
+    "name": "Stierva",
+    "lat": 46.6636787,
+    "lng": 9.5419833,
+    "episodes": [
+      {
+        "title": "Kanton Graubünden – Tag 1 – Stierva",
+        "date": "2019-03-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/bd36fe21-e2ae-4da7-9a8d-a8e4f624dffd"
+      }
+    ]
+  },
+  {
+    "name": "Saas-Fee",
+    "lat": 46.107342,
+    "lng": 7.9247055,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 5 – Saas-Fee",
+        "date": "2019-03-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b18c5028-e63d-44c9-bbe1-62fb70d143b5"
+      }
+    ]
+  },
+  {
+    "name": "Leuk",
+    "lat": 46.2777565,
+    "lng": 7.6680202,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 4 – Leuk",
+        "date": "2019-03-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/89ae1767-f778-4189-bf9f-76ea19523bd8"
+      }
+    ]
+  },
+  {
+    "name": "Niedergesteln",
+    "lat": 46.3133927,
+    "lng": 7.7818042,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 2 – Niedergesteln",
+        "date": "2019-03-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/494ab284-20fb-4250-a6ff-90a777d68d47"
+      }
+    ]
+  },
+  {
+    "name": "Naters",
+    "lat": 46.3242941,
+    "lng": 7.9884278,
+    "episodes": [
+      {
+        "title": "Kanton Wallis – Tag 1 – Naters",
+        "date": "2019-03-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/815a7c98-24b5-401a-a86a-66af2345ee70"
+      }
+    ]
+  },
+  {
+    "name": "Hinwil",
+    "lat": 47.3015316,
+    "lng": 8.8419423,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 5 – Hinwil",
+        "date": "2019-03-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/89e8f549-f7a0-49c4-98e7-49986bcd3cd6"
+      }
+    ]
+  },
+  {
+    "name": "Grüningen",
+    "lat": 47.2819396,
+    "lng": 8.7613283,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 4 – Grüningen",
+        "date": "2019-03-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f3c8d23e-e595-4e0f-9407-0c6a8b3459fd"
+      }
+    ]
+  },
+  {
+    "name": "Maur",
+    "lat": 47.3402856,
+    "lng": 8.6692369,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 3 – Maur",
+        "date": "2019-03-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b1207e4c-4f0c-4f55-aa95-006e1885674b"
+      }
+    ]
+  },
+  {
+    "name": "Binz",
+    "lat": 47.3573192,
+    "lng": 8.6267782,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 2 – Binz",
+        "date": "2019-03-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7c854bee-9586-43cf-9264-242c99e98032"
+      }
+    ]
+  },
+  {
+    "name": "Richterswil",
+    "lat": 47.2091079,
+    "lng": 8.7017051,
+    "episodes": [
+      {
+        "title": "Kanton Zürich – Tag 1 – Richterswil",
+        "date": "2019-03-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3a9fdd3b-d021-4e44-bc0a-e913bd68a177"
+      }
+    ]
+  },
+  {
+    "name": "Altstadt Grossbasel",
+    "lat": 47.5564274,
+    "lng": 7.5882594,
+    "episodes": [
+      {
+        "title": "Stadt Basel – Tag 5 – Altstadt Grossbasel",
+        "date": "2019-03-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/72f2a0f5-3234-490c-b7c2-012a57f657bf"
+      }
+    ]
+  },
+  {
+    "name": "Bachletten Quartier",
+    "lat": 47.5485663,
+    "lng": 7.571726,
+    "episodes": [
+      {
+        "title": "Stadt Basel – Tag 4 – Bachletten Quartier",
+        "date": "2019-03-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/22b94ec1-154a-4afa-b972-8ebc55b976c3"
+      }
+    ]
+  },
+  {
+    "name": "St. Johann",
+    "lat": 47.5690856,
+    "lng": 7.5759341,
+    "episodes": [
+      {
+        "title": "Stadt Basel – Tag 3 – St. Johann",
+        "date": "2019-03-06T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/69537d66-385e-449d-b704-f88c948a4f98"
+      }
+    ]
+  },
+  {
+    "name": "Altstadt Kleinbasel",
+    "lat": 47.5606996,
+    "lng": 7.5933825,
+    "episodes": [
+      {
+        "title": "Stadt Basel – Tag 1 – Altstadt Kleinbasel",
+        "date": "2019-03-04T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cfae2a8d-f1be-465f-94d4-05fb4d9b669a"
+      }
+    ]
+  },
+  {
+    "name": "Stadt Schaffhausen",
+    "lat": 47.6965466,
+    "lng": 8.6328708,
+    "episodes": [
+      {
+        "title": "Kanton Schaffhausen – Tag 5 – Stadt Schaffhausen",
+        "date": "2019-03-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/5f88f52e-aaea-42ca-998b-77535913e88e"
+      }
+    ]
+  },
+  {
+    "name": "Neuhausen am Rheinfall",
+    "lat": 47.6811644,
+    "lng": 8.6197347,
+    "episodes": [
+      {
+        "title": "Kanton Schaffhausen – Tag 4 – Neuhausen am Rheinfall",
+        "date": "2019-02-28T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3eec883d-0478-4037-9989-407a1f1ce714"
+      }
+    ]
+  },
+  {
+    "name": "Stein am Rhein",
+    "lat": 47.6597323,
+    "lng": 8.8596823,
+    "episodes": [
+      {
+        "title": "Kanton Schaffhausen – Tag 3 – Stein am Rhein",
+        "date": "2019-02-27T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/1cbc860c-d071-4325-900a-8cab50ac4e88"
+      }
+    ]
+  },
+  {
+    "name": "Neunkirch",
+    "lat": 47.689983,
+    "lng": 8.5000759,
+    "episodes": [
+      {
+        "title": "Kanton Schaffhausen – Tag 2 – Neunkirch",
+        "date": "2019-02-26T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/6e569259-4016-4abe-bc35-7b9549b7c8e9"
+      }
+    ]
+  },
+  {
+    "name": "Wilchingen",
+    "lat": 47.6674274,
+    "lng": 8.4668988,
+    "episodes": [
+      {
+        "title": "Kanton Schaffhausen – Tag 1 – Wilchingen",
+        "date": "2019-02-25T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9bbac0fa-cab0-4f35-aa60-6f08340a2ab5"
+      }
+    ]
+  },
+  {
+    "name": "Affoltern / Kreis 11",
+    "lat": 47.4129591,
+    "lng": 8.5471082,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 5 – Affoltern / Kreis 11",
+        "date": "2019-02-22T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9e12fdb4-3fb5-4950-8520-5f1ddba4e7b9"
+      }
+    ]
+  },
+  {
+    "name": "Wiedikon / Kreis 3",
+    "lat": 47.3672709,
+    "lng": 8.5119305,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 4 – Wiedikon / Kreis 3",
+        "date": "2019-02-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/2d8fc680-ca8b-42b6-b16b-90ac589df6ae"
+      }
+    ]
+  },
+  {
+    "name": "Altstadt / Kreis 1",
+    "lat": 47.3680179,
+    "lng": 8.5394313,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 3 – Altstadt / Kreis 1",
+        "date": "2019-02-20T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/90114263-d5e9-4266-9de7-eec99e81f0c7"
+      }
+    ]
+  },
+  {
+    "name": "Zürich West / Kreis 5",
+    "lat": 47.3922791,
+    "lng": 8.5115073,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 2 – Zürich West / Kreis 5",
+        "date": "2019-02-19T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/58fe66f7-db3b-417c-94ec-0917bc4c7bd6"
+      }
+    ]
+  },
+  {
+    "name": "Höngg",
+    "lat": 47.4016598,
+    "lng": 8.4976694,
+    "episodes": [
+      {
+        "title": "Stadt Zürich – Tag 1 – Höngg",
+        "date": "2019-02-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/0ca17a1a-4f10-4000-8c17-d287a60102d7"
+      }
+    ]
+  },
+  {
+    "name": "Sirnach",
+    "lat": 47.461402,
+    "lng": 8.9934296,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 5 – Sirnach",
+        "date": "2019-02-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/acd15145-d9b7-4a9d-b7fb-ffeb2f83e3b3"
+      }
+    ]
+  },
+  {
+    "name": "Basadingen",
+    "lat": 47.6690315,
+    "lng": 8.7449691,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 4 – Basadingen",
+        "date": "2019-02-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3e368fed-9695-42d8-9488-6553ea5f247a"
+      }
+    ]
+  },
+  {
+    "name": "Bichelsee–Balterswil",
+    "lat": 47.4520749,
+    "lng": 8.9266257,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 3 – Bichelsee–Balterswil",
+        "date": "2019-02-13T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/753171cb-4540-4557-89f5-a9b1d110931a"
+      }
+    ]
+  },
+  {
+    "name": "Weinfelden",
+    "lat": 47.5669187,
+    "lng": 9.1097539,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 2 – Weinfelden",
+        "date": "2019-02-12T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/7916f24d-328e-403b-ae9f-090222373206"
+      }
+    ]
+  },
+  {
+    "name": "Arbon",
+    "lat": 47.5149257,
+    "lng": 9.4304026,
+    "episodes": [
+      {
+        "title": "Kanton Thurgau – Tag 1 – Arbon",
+        "date": "2019-02-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/9b29c601-48ff-43b3-b650-60da352745e3"
+      }
+    ]
+  },
+  {
+    "name": "Riedbach",
+    "lat": 46.9411401,
+    "lng": 7.334196,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 5 – Riedbach",
+        "date": "2019-02-08T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/ff135666-3cb6-4c5f-85c1-95037ab8b5ab"
+      }
+    ]
+  },
+  {
+    "name": "Breitenrain",
+    "lat": 46.9601803,
+    "lng": 7.4503979,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 4 – Breitenrain",
+        "date": "2019-02-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/43f36e4e-2360-4e6e-bac0-ab60fe08182b"
+      }
+    ]
+  },
+  {
+    "name": "Bethlehem",
+    "lat": 46.9483468,
+    "lng": 7.3857607,
+    "episodes": [
+      {
+        "title": "Stadt Bern – Tag 2 – Bethlehem",
+        "date": "2019-02-05T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8c65f54a-bb10-4605-ac12-7358bf98f552"
+      }
+    ]
+  },
+  {
+    "name": "Steinen",
+    "lat": 47.0500549,
+    "lng": 8.6108291,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 5 – Steinen",
+        "date": "2019-02-01T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/f79dfd4d-ca69-4c94-a564-be23d2b57297"
+      }
+    ]
+  },
+  {
+    "name": "Rothenthurm",
+    "lat": 47.1047258,
+    "lng": 8.6748441,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 4 – Rothenthurm",
+        "date": "2019-01-31T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/8feeba47-b694-44c1-8f70-bda036f4d448"
+      }
+    ]
+  },
+  {
+    "name": "Küssnacht am Rigi",
+    "lat": 47.08385,
+    "lng": 8.4386308,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 3 – Küssnacht am Rigi",
+        "date": "2019-01-30T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/4ffc5279-4d3d-4763-8c8e-25004215de1e"
+      }
+    ]
+  },
+  {
+    "name": "Morschach",
+    "lat": 46.9821204,
+    "lng": 8.6191516,
+    "episodes": [
+      {
+        "title": "Kanton Schwyz – Tag 2 – Morschach",
+        "date": "2019-01-29T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/3a05b16a-c1a3-48ee-8fb9-dec1bbd95f52"
+      }
+    ]
+  },
+  {
+    "name": "Wesemlin-Dreilinden",
+    "lat": 47.0615582,
+    "lng": 8.3136676,
+    "episodes": [
+      {
+        "title": "Stadt Luzern – Tag 4 – Wesemlin-Dreilinden",
+        "date": "2019-01-24T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/42d50592-43ff-4f17-9451-32e809687cf8"
+      }
+    ]
+  },
+  {
+    "name": "Hirschmatt–Neustadt",
+    "lat": 47.0471747,
+    "lng": 8.307713,
+    "episodes": [
+      {
+        "title": "Stadt Luzern – Tag 3 – Hirschmatt–Neustadt",
+        "date": "2019-01-23T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/434762e2-c5ef-4d96-bf92-6f44ecedbb63"
+      }
+    ]
+  },
+  {
+    "name": "Bruchquartier",
+    "lat": 47.0467808,
+    "lng": 8.3025236,
+    "episodes": [
+      {
+        "title": "Stadt Luzern – Tag 1 – Bruchquartier",
+        "date": "2019-01-21T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/abe6ca3a-a657-4ffd-95d2-75386313046a"
+      }
+    ]
+  },
+  {
+    "name": "Ettingen",
+    "lat": 47.4816164,
+    "lng": 7.5441378,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 5 – Ettingen",
+        "date": "2019-01-18T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/e75229f4-ce50-458c-bc09-d13f2f04a23e"
+      }
+    ]
+  },
+  {
+    "name": "Sissach",
+    "lat": 47.4634767,
+    "lng": 7.8125639,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 4 – Sissach",
+        "date": "2019-01-17T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/b89de94b-a333-4fcd-9ce9-ab705f8e10af"
+      }
+    ]
+  },
+  {
+    "name": "Reigoldswil",
+    "lat": 47.3974255,
+    "lng": 7.6918178,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 3 – Reigoldswil",
+        "date": "2019-01-16T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/cccec651-7994-447e-b0cc-3b52ff6b6fdd"
+      }
+    ]
+  },
+  {
+    "name": "Arlesheim",
+    "lat": 47.4931125,
+    "lng": 7.6202048,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 2 – Arlesheim",
+        "date": "2019-01-15T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/de233bc1-fa47-41ce-8494-3a25bdf86dad"
+      }
+    ]
+  },
+  {
+    "name": "Münchenstein",
+    "lat": 47.5187909,
+    "lng": 7.6174515,
+    "episodes": [
+      {
+        "title": "Kanton Basel Landschaft – Tag 1 – Münchenstein",
+        "date": "2019-01-14T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/33dc68e9-090c-44d9-bc94-2bdb30969528"
+      }
+    ]
+  },
+  {
+    "name": "Würenlos",
+    "lat": 47.4421058,
+    "lng": 8.3618108,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 5 – Würenlos",
+        "date": "2019-01-11T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/47ceb1d9-54b3-4fe3-808a-9a91ed4485fa"
+      }
+    ]
+  },
+  {
+    "name": "Küttigen",
+    "lat": 47.4194538,
+    "lng": 8.0432568,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 4 – Küttigen",
+        "date": "2019-01-10T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/985c9e07-3760-4773-aac2-568d5a2f4288"
+      }
+    ]
+  },
+  {
+    "name": "Koblenz",
+    "lat": 47.6088321,
+    "lng": 8.2386953,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 3 – Koblenz",
+        "date": "2019-01-09T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/498b9615-3f5a-4db8-8f59-04f3e4ba978c"
+      }
+    ]
+  },
+  {
+    "name": "Windisch",
+    "lat": 47.4793472,
+    "lng": 8.2179918,
+    "episodes": [
+      {
+        "title": "Kanton Aargau – Tag 1 – Windisch",
+        "date": "2019-01-07T18:15:00+01:00",
+        "url": "https://www.srf.ch/play/tv/redirect/detail/347ea392-92eb-4e23-8200-c4bbb8cc769c"
+      }
+    ]
+  }
+]
